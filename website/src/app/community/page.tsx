@@ -17,7 +17,7 @@ const CommunautePage = () => {
         textSize="text-display-small"
       />
       <div className="max-w-screen-2xl">
-        <Comunite />
+        <Comunite />de
       </div>
     </main>
   );
