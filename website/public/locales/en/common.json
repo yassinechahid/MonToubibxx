@@ -1,0 +1,2163 @@
+{
+  "languages": {
+    "en": "English",
+    "fr": "French",
+    "ar": "Arabic",
+    "es": "Spanish",
+    "am": "Tamazight"
+  },
+  "drawerNav": {
+    "home": "Home",
+    "discoverPlatform": "Discover platform",
+    "userSpace": "User space",
+    "mtAcademy": "MT Academy",
+    "community": "Community & Partnerships",
+    "media": "Media & Resources",
+    "contact": "Contact & assistance",
+    "closeMenu": "close menu",
+    "logoAlt": "logo mon toubib",
+    "copyright": "Mon Toubib. All rights reserved."
+  },
+  "home": {
+    "title": "Mon Toubib",
+    "subtitle": "One record, a lifetime of health.",
+    "description1": "Mon Toubib brings together your entire care pathway in a single secure, intuitive platform compliant with Moroccan regulatory requirements. Thanks to the",
+    "description2": "Shared Health Profile Record (DPSP)",
+    "description3": ", your medical information follows you everywhere, facilitating coordination between doctors, patients and healthcare professionals.",
+    "patientButton": "I am a patient",
+    "notAvailable": "This section is coming soon! We're working hard to bring it to you.",
+    "professionalButton": "I am a healthcare professional",
+    "entreprise": "I represent a company",
+    "platformLink": "Discover the platform",
+    "d4": "Mon Toubib is an initiative developed by ASI Maroc to support the modernization of the health sector and facilitate equitable access to medical services. The platform respects CNDP requirements regarding the processing and protection of personal data.",
+    "innovationLink": "Discover our innovations",
+    "securityLink": "Learn more about security",
+    "dpspLink": "Discover the DPSP",
+    "ecoLink": "Explore the complete ecosystem",
+    "exploreLink": "Explore our modules in detail",
+    "ia": "Discover how AI helps you",
+    "pro": "Discover Pro tools",
+    "join": "Join the Mon Toubib network",
+    "sec": "Learn more about our security",
+    "discover": "Discover Mon Toubib compliance",
+    "partner": "Become a partner",
+    "chart": "Discover the Mon Toubib partnership charter",
+    "access": "Access the professional space",
+    "consult": "Consult the privacy policy",
+    "d5": "Mon Toubib can connect patients, doctors, businesses, pharmacies and laboratories around a secure, interoperable ecosystem focused on health.",
+    "d6": "Every piece of medical data becomes useful, protected and available at the right time.",
+    "d7": "A digital platform for a closer, safer and more connected healthcare.",
+    "card": "Security & Data Protection"
+  },
+  "servicesFonctions": {
+    "title": "Why choose Mon Toubib?",
+    "subtitle1": "Core values",
+    "subtitle": "Mon Toubib is an e-health solution that can be deployed to improve access to care, strengthen medical coordination and facilitate patient journey management in different healthcare environments.",
+    "text3": "Flexible, scalable and compliant with Moroccan regulatory requirements, it adapts to the needs of individuals, healthcare professionals, businesses and institutions alike. Our approach is based on a configurable architecture compliant with current legal frameworks (CNDP, DGSSI, ISO standards), enabling deployment adapted to each use context — private, public or institutional.",
+    "cards": {
+      "sovereignty": {
+        "title": "Adaptable digital sovereignty",
+        "description": "The platform respects Moroccan regulatory obligations while allowing configurable deployment according to projects: CNDP/DGSSI compliance, ISO standards, integration capabilities with local or private environments."
+      },
+      "interoperability": {
+        "title": "Continuous innovation",
+        "description": "An evolving modular architecture integrating the major components of digital health: <span class='text-light-primary text-title-medium font-normal'> DPSP, FCI, Health AI (patients and professionals), Dispo+, MTS Doctor, MRSS, CMC Cabins,</span> etc."
+      },
+      "parametre": {
+        "title": "Interoperability & international standards",
+        "description": "Compatibility with HL7, FHIR, IHE, ISO 13606 standards, facilitating integration with hospitals, laboratories, medical practices, pharmacies and corporate information systems."
+      },
+      "patientCentered": {
+        "title": "Patient-centered approach",
+        "description": "The patient retains control over their data, manages their permissions and accesses a structured and clear medical history. The platform places transparency and simplicity at the heart of the care pathway."
+      },
+      "Architecture": {
+        "title": "Cloud-agnostic architecture",
+        "description": "Deployable on multiple environments: certified cloud, private cloud, infrastructures meeting national regulatory requirements. This flexibility guarantees performance, resilience and compliance."
+      },
+      "security": {
+        "title": "Enhanced security & CNDP compliance",
+        "description": "The platform applies Moroccan regulatory requirements (CNDP, DGSSI) as well as international security standards (ISO 27001, 27701, 27799). Complete traceability, logging, encryption and strict access management ensure the confidentiality of health data."
+      },
+      "accessibility": {
+        "title": "National accessibility & local governance",
+        "description": "Developed and operated by ASI Maroc, Mon Toubib is designed for the realities of the Moroccan context: urban and rural areas, businesses, clinics, institutions. It supports the digital transformation of the sector through a local and operational vision."
+      }
+    }
+  },
+  "platform": {
+    "health": "Health AI – Patients",
+    "text": ", to help everyone better express their symptoms, understand medical information and prepare for their consultation.",
+    "health2": "Health AI – Professionals,",
+    "text2": ", to assist the doctor in drafting the FCI, analyzing the medical context and clinical reformulation.",
+    "text3": " These assistants never replace medical advice, but improve the quality of dialogue between patient and healthcare professional.",
+    "functionnality1": "Features — Health AI (Patient side)",
+    "functionnality2": "Features — Health AI (Professional side)",
+    "try": "Try Health AI",
+    "see": "See the video demo",
+    "discover": "Discover other innovations",
+    "title": "Mon Toubib Health AI",
+    "subtitle": "Health AI — Your intelligent and caring assistant",
+    "description": "Mon Toubib Health AI exists in two complementary versions:",
+    "securityNote": "Your exchanges with Health AI are completely confidential. They are processed on infrastructures compliant with Moroccan regulatory requirements (CNDP, DGSSI) and international security and confidentiality standards.",
+    "cards": {
+      "dialogue": {
+        "title": "Intelligent dialogue",
+        "description": "Ask your questions in natural language. The AI reformulates and explains medical information with clear and accessible language."
+      },
+      "consultation": {
+        "title": "Consultation preparation",
+        "description": "The AI helps the patient structure their reason for visit, clarify the medical history and produce an intelligent summary for the doctor."
+      },
+      "history": {
+        "title": "Assisted history",
+        "description": "Retrieve the summaries generated by the AI, organized to better track your health journey."
+      },
+      "orientation": {
+        "title": "Personalized orientation",
+        "description": "The AI can suggest the most appropriate specialty based on expressed symptoms, without establishing a diagnosis."
+      }
+    },
+    "cards2": {
+      "dialogue": {
+        "title": "Assistance with FCI drafting",
+        "description": "The AI proposes intelligent pre-drafting based on the <span class='text-light-primary text-title-medium font-normal'>DPSP</span>, the <span class='text-light-primary text-title-medium font-normal'>CSP</span>, the medical history expressed by the patient and the clinical context."
+      },
+      "consultation": {
+        "title": "Contextual analysis",
+        "description": "The AI can help reformulate, organize or structure the medical information from the consultation."
+      },
+      "history": {
+        "title": "Assisted voice dictation",
+        "description": "The doctor can enter their observations by voice recorder; the AI transcribes, cleans, reformulates, structures and proposes a coherent medical version."
+      },
+      "orientation": {
+        "title": "Smooth DPSP update",
+        "description": "Upon closing the <span class='text-light-primary text-title-medium font-normal'>FCI</span>, the AI facilitates the integration of relevant information into the <span class='text-light-primary text-title-medium font-normal'>DPSP</span>."
+      }
+    }
+  },
+  "cordination": {
+    "title": "Medical coordination",
+    "subtitle": "Smooth coordination between all healthcare actors",
+    "description": "Mon Toubib can ensure a fluid, secure and coherent connection between all care pathway participants: doctors, patients, laboratories, radiology centers, pharmacies, clinics, businesses and public institutions. The unique, structured and interoperable <span class='text-light-primary text-title-medium font-normal'> Shared Health Profile Record (DPSP) </span> allows each actor to access relevant information at the right time, respecting patient consent and national regulatory obligations.",
+    "securityNote": "Mon Toubib medical coordination guarantees controlled and secure circulation of information, compliant with regulatory requirements (CNDP, DGSSI) and international best practices, while fully preserving patient confidentiality and rights.",
+    "cards": {
+      "doctors": {
+        "title": "Doctors and professionals",
+        "description": "Instant access to patient history, allergies, treatments, results, imaging, prescriptions and follow-ups via the <span class='text-light-primary text-title-medium font-normal'>DPSP</span>. Each closed <span class='text-light-primary text-title-medium font-normal'>Intelligent Consultation Form (FCI)</span> automatically updates the <span class='text-light-primary text-title-medium font-normal'>DPSP</span>, ensuring a clear, structured, coherent and always up-to-date medical record."
+      },
+      "patients": {
+        "title": "Patients",
+        "description": "The patient shares their data securely, manages their permissions, tracks their treatments and completes their <span class='text-light-primary text-title-medium font-normal'>Personal Health Notebook (CSP)</span>. They also receive consultation reports, improving their understanding and continuity of care."
+      },
+      "labs": {
+        "title": "Laboratories and pharmacies",
+        "description": "They transmit their test results, imaging reports and medical documents directly to the patient's <span class='text-light-primary text-title-medium font-normal'>DPSP</span>. Each new document automatically triggers a notification for the patient in the Mon Toubib Patient application and for the doctor in <span class='text-light-primary text-title-medium font-normal'>MTS Doctor</span>, ensuring faster care and avoiding interpretation delays."
+      },
+      "institutions": {
+        "title": "Healthcare institutions",
+        "description": "Authorized institutions and organizations can use aggregated and anonymized data for prevention, health planning or improvement of health programs. The occupational physician has dedicated access via <span class='text-light-primary text-title-medium font-normal'>MTS Doctor</span> to ensure medical follow-up of employees: mandatory visits, reminders, medical alerts, targeted monitoring and prevention actions, in strict compliance with confidentiality rules and consent."
+      }
+    },
+    "description2": "With Mon Toubib, care becomes truly collaborative. Each actor accesses useful information without redundancy, without wasted time and without complexity, offering the patient a clearer, faster and more secure pathway."
+  },
+  "ecosysteme": {
+    "title": "Mon Toubib Ecosystem",
+    "subtitle": "A complete, integrated and interoperable e-health ecosystem",
+    "subtitle2": "Key modules of the Mon Toubib platform",
+    "description": "Mon Toubib presents itself as a structured digital ecosystem that can connect all care pathway actors around a central core: the <span class='text-light-primary text-title-medium font-normal'>Shared Health Profile Record (DPSP)</span>. Each module responds to a specific need — prevention, diagnosis, coordination, follow-up, teleconsultation and practice management — while remaining interconnected. This architecture ensures fluid, secure, traceable care compliant with Moroccan and international standards.",
+    "d2": "All Mon Toubib modules communicate with each other around the DPSP, with fine-grained permission management driven by the doctor. Together they form a unified, secure and interoperable architecture (HL7, FHIR, ISO 13606, ISO 27001/27701/27799).",
+    "d3": "Mon Toubib aims to bring together the tools, data, access rights and actors of the healthcare system to contribute to a more unified, simpler and more secure medical experience for citizens. Mon Toubib positions itself as more than just a medical record: a new way to connect patients, professionals and technology, in service of modern and inclusive Moroccan healthcare."
+  },
+  "ecosystems": {
+    "dpsp": {
+      "name": "DPSP — Shared Health Profile Record",
+      "description": "<span class=\"text-light-surfaceContainerLowest font-semibold\">The DPSP is the nerve center of the system</span>. It gathers the patient's complete medical history: history, allergies, imaging, treatments, test results, reports, prescriptions and closed <span class=\"text-light-primary text-title-medium font-normal\">FCIs</span>. It is automatically updated with each validation of an <span class=\"text-light-primary text-title-medium font-normal\">Intelligent Consultation Form (FCI)</span>. The doctor precisely configures access permissions: <ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Visibility for the patient</li> <li class=\"ml-2\"> • Visibility for colleagues</li> <li class=\"ml-2\"> • Visibility for other healthcare professionals</li> <li class=\"ml-2\"> • Restrictions according to clinical context and medical confidentiality</li></ul>"
+    },
+    "fci": {
+      "name": "FCI — Intelligent Consultation Forms",
+      "description": "The FCI is a structured clinical tool allowing the doctor to conduct a complete consultation, assisted by AI. It can be pre-filled from the <span class='text-light-primary text-title-medium font-normal'>DPSP</span> and information from the <span class='text-light-primary text-title-medium font-normal'>CSP</span>. Once closed, the FCI is locked, timestamped and automatically integrated into the <span class='text-light-primary text-title-medium font-normal'>DPSP</span>. The doctor determines which sections will be visible or not to the patient or other doctors."
+    },
+    "csp": {
+      "name": "CSP — Personal Health Notebook (patient)",
+      "description": "Patient's private space to manage: personal parameters, health journal, wellness, reminders, vaccinations, daily measurements. The patient chooses what to share with their doctor. Some elements can feed the <span class='text-light-primary text-title-medium font-normal'>DPSP</span> with explicit consent."
+    },
+    "dispo": {
+      "name": "Dispo+: Teleconsultation & immediate availability",
+      "description": "Allows the doctor to activate their real-time availability. The patient instantly sees if the doctor is available, busy or ready to receive a consultation. Each teleconsultation automatically generates an FCI and updates the DPSP."
+    },
+    "ia": {
+      "name": "Health AI — Patients & Doctors",
+      "description": "Two dedicated assistants: <ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> <span class=\"text-light-primary text-body-large\"> • Health AI Patients: </span>helps express symptoms, clarify the reason for visit, prepare the consultation.</li> <li class=\"ml-2\"> <span class=\"text-light-primary text-body-large\">• Health AI Doctors: </span> intelligent voice dictation, clinical reformulation, structuring of observations in the FCI.</li></ul>"
+    },
+    "mrss": {
+      "name": "MRSS — My Health Social Network",
+      "description": "<ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> <span class=\"text-light-primary text-body-large\"> • MRSS Pro: </span>reserved for doctors and authorized professionals, for clinical exchanges and best practices.</li> <li class=\"ml-2\"> <span class=\"text-light-primary text-body-large\">• MRSS Users: </span> patient space dedicated to health prevention and awareness.</li></ul>"
+    },
+    "cmc": {
+      "name": "CMC — Connected Medical Cabins",
+      "description": "E-health cabins for rural areas, industrial sites and remote regions. Based on connected sensors, trained agents and direct connection to <span class='text-light-primary text-title-medium font-normal'>MTS Doctor</span>."
+    },
+    "mts": {
+      "name": "MTS Doctor — Practice Management & Medical Activity",
+      "description": "Web & mobile (responsive) solution allowing the doctor to manage all their activity: <ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • complete access to the <span class='text-light-primary text-title-medium font-normal'>DPSP</span></li> <li class=\"ml-2\"> • access and management of <span class='text-light-primary text-title-medium font-normal'>FCIs</span></li> <li class=\"ml-2\"> • management of immediate and scheduled consultations</li> <li class=\"ml-2\"> • setting time slots</li> <li class=\"ml-2\"> • shared calendar synchronized with assistants & patients</li> <li class=\"ml-2\"> • management of medical assistants</li> <li class=\"ml-2\"> • internal messaging</li> <li class=\"ml-2\"> • management of additional services (procedures, services, prices, family discounts)</li> <li class=\"ml-2\"> • automatic clinical notifications</li></ul> MTS Doctor also allows the doctor to define all visibility permissions for the <span class='text-light-primary text-title-medium font-normal'>DPSP</span> and <span class='text-light-primary text-title-medium font-normal'>FCIs</span>. The platform is accessible 24/7, from the practice, clinic or smartphone, in strict compliance with CNDP, DGSSI and international security standards."
+    }
+  },
+  "patientsProfessionals": {
+    "label1": "Patient",
+    "label2": "Doctor",
+    "label3": "Healthcare Professionals",
+    "title": "Patients & Professionals",
+    "subtitle3": "MVP version (Minimum Viable Product)",
+    "subtitle": "A platform designed for the three essential actors of the care pathway",
+    "text1": "Pharmacists",
+    "text2": "Medical analysis laboratories",
+    "text3": "Radiology and imaging centers",
+    "text4": "Other healthcare professionals will be added progressively, as the platform evolves and field needs arise.",
+    "description1": "For the first operational version of the platform (Minimum Viable Product – MVP), three categories of professionals will be integrated as priority:",
+    "description": "The Mon Toubib platform can fluidly accompany the three main medical actors: patients, doctors and other healthcare professionals. Each actor has a dedicated interface, built around the same foundation: the <span class='text-light-primary text-title-medium font-normal'> Shared Health Profile Record (DPSP) </span>— the intelligent, common and secure medical record — automatically updated after each <span class='text-light-primary text-title-medium font-normal'>Intelligent Consultation Form (FCI)</span>.",
+    "patients": {
+      "title": "For patients: your health in one click",
+      "features": {
+        "f1": "Access your appointments, prescriptions, tests, and your <span class='text-light-primary text-title-medium font-normal'>Shared Health Profile Record (DPSP) </span> from your phone.",
+        "f2": "Benefit from <span class='text-light-primary text-title-medium font-normal'>Health AI</span> to better understand your symptoms, ask questions and communicate effectively with your doctor.",
+        "f3": "All your data is synchronized, encrypted and hosted in Morocco according to the strictest security standards."
+      }
+    },
+    "professionals": {
+      "title": "For professionals: Simplify your medical practice",
+      "features": {
+        "f1": "Mon Toubib offers you a complete and secure workspace for patient management, medical coordination and real-time information sharing.",
+        "f2": "You benefit from an integrated electronic signature, management of <span class='text-light-primary text-title-medium font-normal'>FCIs (Intelligent Consultation Forms)</span>, <span class='text-light-primary text-title-medium font-normal'>Dispo+</span> for teleconsultation and quick access to each patient's <span class='text-light-primary text-title-medium font-normal'> DPSP (Shared Patient Health Record)</span>."
+      }
+    },
+    "subtitle2": "Three complementary spaces, simple to understand and perfectly interconnected",
+    "subtitle4": "Planned features",
+    "d2": "Healthcare institutions, associations and partner businesses can integrate their services via the Mon Toubib Pro+ portal, designed for collaboration and supervision of anonymized data.",
+    "d3": "Mon Toubib can connect patients, doctors and healthcare professionals in a fluid, simple and complete ecosystem — where each actor has tools adapted to their role. With Mon Toubib, each healthcare actor can gain clarity, efficiency and confidence.",
+    "d4": "Key features for the patient",
+    "d5": "Clinical tools used by the doctor",
+    "d6": "Practice management tools",
+    "d7": "Description",
+    "paragraph": "Space reserved for non-doctor healthcare professionals involved in the care pathway: nurses, physiotherapists, midwives, psychologists, opticians, speech therapists and other authorized professionals. This space allows them to collaborate effectively with referring doctors, contribute to clinical follow-up of patients and consult necessary information while respecting confidentiality rules.",
+    "patientCards": {
+      "p1": {
+        "title": "Shared Health Profile Record (DPSP)",
+        "description": "Patient's digital medical record, consultable and automatically updated after each validated consultation."
+      },
+      "p2": {
+        "title": "Personal Health Notebook (CSP)",
+        "description": "Private space to track daily measurements (blood pressure, blood sugar...), vaccinations, health journal and personal documents."
+      },
+      "p3": {
+        "title": "Intelligent appointment booking",
+        "description": "Practice appointments, scheduled teleconsultations or home visits, according to time slots and service types defined by the doctor."
+      },
+      "p4": {
+        "title": "Dispo+: Doctor's Immediate Availability",
+        "description": "Allows real-time teleconsultation as soon as the doctor activates this mode."
+      },
+      "p5": {
+        "title": "Secure medical messaging",
+        "description": "Direct channel with the doctor for questions, instructions, simple follow-up and clear communication."
+      },
+      "p6": {
+        "title": "Medical teleconference",
+        "description": "Integrated video consultation, used according to the doctor's needs."
+      },
+      "p7": {
+        "title": "Health AI Patient",
+        "description": "Intelligent assistant that reformulates symptoms, clarifies the reason for visit and helps prepare the consultation."
+      },
+      "p8": {
+        "title": "Secure advance payment",
+        "description": "Mandatory for appointments made via the application, and optional for appointments made directly at the practice when an immediate free slot is available."
+      },
+      "p9": {
+        "title": "TV display at practice (option)",
+        "description": "The arrival ticket automatically registers when the patient arrives within the scheduled time slot. Their order of passage displays without assistant intervention provided that: the appointment is paid, the patient arrives on time or during the allocated period, no prior request for postponement or cancellation has been sent."
+      },
+      "p10": {
+        "title": "Intelligent notifications",
+        "description": "Automatic appointment reminders (the day before and two hours before), available results, new messages, and doctor availability notifications when the doctor is registered as a favorite by the patient."
+      }
+    },
+    "medecin": {
+      "card1": {
+        "title": "Shared Health Profile Record (DPSP)",
+        "description": "Patient's complete medical record, automatically updated after each closed Intelligent Consultation Form (FCI)."
+      },
+      "card2": {
+        "title": "Intelligent Consultation Form (FCI)",
+        "description": "Structured consultation document, pre-filled from the DPSP and locked after closing to ensure clinical traceability."
+      },
+      "card3": {
+        "title": "Health AI Doctor",
+        "description": "Clinical drafting assistance tool: voice dictation, structuring, medical reformulation."
+      },
+      "card4": {
+        "title": "Professional messaging",
+        "description": "Secure exchanges with patients, assistants, referring colleagues, and all healthcare professionals subscribed to Mon Toubib and authorized by the doctor."
+      },
+      "card5": {
+        "title": "Medical teleconference",
+        "description": "Medical teleconferences or integrated clinical exchanges, with patients, assistants, authorized colleagues and all healthcare professionals subscribed to Mon Toubib, according to permissions defined by the doctor."
+      }
+    },
+    "outils": {
+      "card1": {
+        "title": "Intelligent Calendar",
+        "description": "Dynamic and fully customizable medical schedule. The doctor freely defines: consultation type (practice, teleconsultation, home) duration, price and breaks between consultations, specific slots (emergencies, rest, long consultations). The calendar also allows instant reassignment of a slot (e.g., transform a free teleconsultation into a practice appointment). It synchronizes in real time with authorized assistants and patients."
+      },
+      "card2": {
+        "title": "Dispo+: Doctor's Immediate Availability",
+        "description": "Activable/deactivable mode in real time: When the doctor activates it, they become immediately visible on the patient application for instant teleconsultation."
+      },
+      "card3": {
+        "title": "Assistant management (rights and permissions)",
+        "description": "The doctor can define for each assistant: entry of patient data, payment management for immediate appointments, adding appointments, read-only or not, modification of intelligent calendar elements, limited or denied access to DPSP, limited or denied access to FCI. Each important action triggers automatic notification to the doctor."
+      },
+      "card4": {
+        "title": "Doctor visibility",
+        "description": "A button allows the doctor to become instantly invisible on the patient application without canceling already scheduled appointments."
+      },
+      "card5": {
+        "title": "Additional services management",
+        "description": "Medical procedures, services, prices, family discounts."
+      },
+      "card6": {
+        "title": "Mandatory or optional advance payment",
+        "description": "Configurable according to doctor preferences."
+      },
+      "card7": {
+        "title": "Total accessibility",
+        "description": "24/7 access from: smartphone, tablet, computer, practice or clinic, home or on the move."
+      }
+    },
+    "professionnels": {
+      "card1": {
+        "title": "Regulated access to Shared Health Profile Record (DPSP)",
+        "description": "Access limited only to sections the doctor decides to make visible, according to the principle of strict need-to-know."
+      },
+      "card2": {
+        "title": "Targeted information addition",
+        "description": "Possibility to enrich the patient record with relevant information related to their professional act, only with explicit authorization from the doctor."
+      },
+      "card3": {
+        "title": "Professional messaging",
+        "description": "Secure channel to exchange with referring doctors, receive instructions, ask questions and ensure fluid coordination."
+      },
+      "card4": {
+        "title": "Medical teleconference",
+        "description": "Participation in a videoconference when authorized by the doctor, particularly for coordination meetings or situations requiring cross-consultation."
+      },
+      "card5": {
+        "title": "Notifications and updates",
+        "description": "Receive alerts concerning: information requests, clinical clarifications, necessary validations, new instructions from the doctor."
+      },
+      "card6": {
+        "title": "Professional space scalability",
+        "description": "As the platform deploys, specialized modules will be developed for each profession: paramedical follow-up, nursing reports, physio follow-up, psychological assessments, speech therapy, optometry, etc."
+      }
+    }
+  },
+  "bigAccounts": {
+    "title": "Large Accounts & Businesses",
+    "subtitle": "The health solution for businesses, industrial groups and multi-site organizations",
+    "description": "Mon Toubib can support private companies, semi-public establishments, multi-site organizations and industrial environments in digitizing their occupational health. Our platform aims to strengthen prevention, can improve medical follow-up of employees and can facilitate coordination between HR services and occupational physicians, while offering a security level compliant with national and international requirements.",
+    "name1": "Dr. Leila M",
+    "role1": "General practitioner in Casablanca",
+    "text1": "\"With Mon Toubib, I have a clearer view of my patients and can follow their records in a fluid and structured way. The DPSP saves me considerable time.\"",
+    "name2": "Fatima Z",
+    "role2": "Diabetic patient",
+    "text2": "\"Thanks to the Mon Toubib app, I have access to my record and test results in a few clicks. I feel like an actor in my health.\"",
+    "name3": "Al Amal Laboratory",
+    "role3": "Marrakech",
+    "text3": "\"Integration with Mon Toubib simplifies transmission of results and strengthens trust with prescribing doctors.\"",
+    "name4": "Ibn Sina Clinic",
+    "role4": "Rabat",
+    "text4": "\"An exemplary Moroccan model: sovereign hosting, CNDP compliance and operational efficiency.\"",
+    "subtitle2": "A professional portal dedicated to occupational health and prevention",
+    "cardTitle": "1. Key components of the Large Accounts offer",
+    "field": "1. Application fields — Who can adopt Mon Toubib?",
+    "cards": {
+      "card1": {
+        "title": "Structured medical follow-up of employees",
+        "description": "<ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Management of work medical records via authorized occupational physicians.</li></ul> <ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Complete integration with the <span class='text-light-primary text-title-medium font-normal'>Shared Health Profile Record (DPSP).</span></li></ul> <ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Automated reminders of regulatory visits.</li></ul> <ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Follow-up of medical restrictions, fitness and occupational diagnoses.</li></ul> <ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Anonymized dashboards for HR services, strictly compliant with CNDP.</li></ul> "
+      },
+      "card2": {
+        "title": "Coordination with occupational physicians (MTS Doctor)",
+        "description": "<ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Update of employee record after each consultation.</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Controlled access to <span class='text-light-primary text-title-medium font-normal'>DPSP</span> according to granted permissions. </li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Automatic reception of tests, assessments, radiology and <span class='text-light-primary text-title-medium font-normal'>Intelligent Consultation Forms (FCI).</span> </li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Secure communication via messaging or teleconference.</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Management of multidisciplinary cases (occupational medicine, treating physicians, specialists)</li></ul>"
+      },
+      "card3": {
+        "title": "Multi-site and multi-team management",
+        "description": "<ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Ideal for organizations present in multiple cities or multiple industrial units.</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Centralized or delegated management according to internal policy. </li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Consolidated follow-up of occupational health activities. </li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Key indicators (anonymized) for prevention, risk monitoring and planning.</li></ul>"
+      },
+      "card4": {
+        "title": "Integration of Connected Medical Cabins (CMC)",
+        "description": "For industrial or remote environments: <ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Automated biometric measurements </li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Supervised pre-assessments </li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Assisted teleconsultations</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Direct access to occupational physician or referring doctor</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Reduced travel and improved medical responsiveness</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Increased safety on worksites and production sites</li></ul>"
+      },
+      "card5": {
+        "title": "HR & Prevention Portal",
+        "description": "<ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Secure access to anonymized statistics</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Targeted prevention campaigns (cardio, diabetes, occupational risks...)</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Automatic alerts (medical absenteeism, internal campaign monitoring)</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Management of health events: training, workshops, webinars</li></ul><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Support for QHSE procedures and compliance</li></ul>"
+      }
+    },
+    "adopt": "Who can adopt Mon Toubib?",
+    "platform": "The platform is perfectly adapted for:",
+    "companies": "Private companies",
+    "group": "Industrial groups",
+    "services": "Service companies",
+    "organisations": "Multi-site organizations",
+    "establishement": "Autonomous semi-public establishments",
+    "area": "Industrial zones",
+    "work": "Companies with external or internal occupational medicine",
+    "structure": "These structures can adopt Mon Toubib without specific public authorization.",
+    "interactions": "3. Possible interactions with public entities",
+    "public": "Possible interactions with public entities",
+    "p": "Certain technical integrations may require exchange with a public entity (e.g., regulatory platform, administrative standard). In this case: integration is only performed if formal authorization is obtained no nominative processing is transmitted without legal basis or explicit consent CNDP / DGSSI compliance remains total.",
+    "p2": "This wording guarantees controlled professional communication without limiting commercial opportunities.",
+    "link1": "Discover Mon Toubib Pro+",
+    "link2": "Request a demonstration",
+    "link3": "Contact our Large Accounts team",
+    "d1": "Mon Toubib can support Moroccan businesses in the digital transformation of occupational health. Modernized prevention, fluid coordination, a unified vision."
+  },
+  "academy": {
+    "title": "MT Academy",
+    "title2": " MT Academy — Train, certify and professionalize healthcare actors",
+    "p": "MT Academy is Mon Toubib's training division, dedicated to developing the skills of medical assistants, doctors and healthcare professionals. It offers a structured pathway combining e-learning, practical workshops, certifications and personalized support, enabling rapid and effective adoption of the Mon Toubib ecosystem.",
+    "title3": "Certifying programs adapted to field needs",
+    "title4": "Pedagogical pathway",
+    "cards": {
+      "card1": {
+        "title": "Medical Assistant Training – MT Academy Assistants",
+        "description": "Structured program for assistants and medical secretaries. It covers patient pathway fundamentals, record management, intelligent appointment booking, use of the <span class='text-light-primary text-title-medium font-normal'> Shared Health Profile Record (DPSP)</span>, <span class='text-light-primary text-title-medium font-normal'> Intelligent Consultation Forms (FCI)</span>, and coordination with <span class='text-light-primary text-title-medium font-normal'> MTS Doctor.</span> <br/> Includes: video modules, practical exercises, workshops, official certification."
+      },
+      "card2": {
+        "title": "Doctor Training – MT Academy Pro",
+        "description": "Pathway dedicated to doctors wishing to fully master Mon Toubib tools: <br/> <ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • Shared Health Profile Record (DPSP)</li><li class=\"ml-2\"> • Intelligent Consultation Forms (FCI)</li><li class=\"ml-2\"> • Health AI (doctor version)</li><li class=\"ml-2\"> • Practice management (intelligent calendar, assistants, services)</li><li class=\"ml-2\"> • Dispo+ teleconsultation</li><li class=\"ml-2\"> • Messaging and teleconference</li><li class=\"ml-2\"> • CNDP / DGSSI compliance</li></ul> Training available in e-learning, webinars or in-person sessions."
+      },
+      "card3": {
+        "title": "ANAPEC Certified – Official programs",
+        "description": "MT Academy is designed to host professional trainings certifiable by national organizations such as ANAPEC. <br/> Pathways include assessments, simulations and final certification enabling rapid integration into medical practices using Mon Toubib."
+      }
+    },
+    "d1": "MT Academy trainings are designed by medical experts and digital health engineers, with a high level of scientific and operational requirements. They guarantee that each trained professional masters best practices, security, and essential tools for modern medicine.",
+    "link1": "Discover MT Academy",
+    "link2": "View training programs",
+    "link3": "Request enrollment/partnership",
+    "1": "Registration",
+    "p2": "The MT Academy pathway follows a simple and clear progression for all:",
+    "2": "Interactive e-learning",
+    "desc2": "(videos, demonstrations, guided modules)",
+    "3": "In-person workshops",
+    "desc3": "(case studies, individual support)",
+    "4": "Assessment & Certification",
+    "5": "Professional integration",
+    "desc5": "via Mon Toubib",
+    "notSupporting": "Your browser does not support the video tag."
+  },
+  "media": {
+    "title": "Media & Resources",
+    "subtitle1": "Mon Toubib in the media and e-health ecosystem",
+    "p": "Mon Toubib regularly shares its news, technological advances and positions on the digital transformation of healthcare. This section brings together key resources to understand the project's vision, its evolution and its impact on the ground. It addresses citizens, healthcare professionals, as well as institutional partners, media and investors.",
+    "subtitle2": "News, publications and reference resources",
+    "cards": {
+      "card1": {
+        "title": "News & Blog",
+        "description": "Latest publications around e-health, medical innovation, prevention and digital transformation of the healthcare system.<br/> <span class=\"text-light-onSurfaceVariant font-bold\">Possible content:</span> e-health innovations, Mon Toubib evolution, prevention and public health, digital uses in healthcare.",
+        "link": "View all news"
+      },
+      "card2": {
+        "title": "Press Releases & Press",
+        "description": "Official communications, partnership announcements, module launches and institutional statements from Mon Toubib. <br/> <span class=\"text-light-onSurfaceVariant font-bold\">Possible content:</span> strategic announcements, public or private partnerships, event participation, institutional recognition.",
+        "link": "Access the press review"
+      },
+      "card3": {
+        "title": "Media Kit & Resources",
+        "description": "Space dedicated to journalists, partners and institutions wishing to access official Mon Toubib documents.<br/> <span class=\"text-light-onSurfaceVariant font-bold\">Accessible content:</span> institutional presentation, key figures, logos and graphic charters, official visuals, downloadable press kit.",
+        "link": "Access the press kit"
+      }
+    },
+    "note": "Mon Toubib is committed to a approach of transparency, pedagogy and active contribution to the debate on digital health, in coherence with regulatory frameworks and field realities.",
+    "link1": "Discover all resources",
+    "link2": "Consult Mon Toubib news"
+  },
+  "stats": {
+    "value1": "+10,000",
+    "label1": "registered patients",
+    "value2": "+200",
+    "label2": "Partner professionals",
+    "value3": "98%",
+    "label3": "user satisfaction",
+    "value4": "100%",
+    "label4": "Certified Moroccan hosting"
+  },
+  "security": {
+    "title": "Security & Data Protection",
+    "subtitle": "Your data protected, here in Morocco when required",
+    "description": "Security, confidentiality and digital sovereignty are at the heart of Mon Toubib's architecture. <br/> In accordance with CNDP and DGSSI guidelines, Mon Toubib strictly applies Moroccan laws regarding data protection, cybersecurity and confidentiality. Hosting and data processing choices are defined respecting the applicable regulatory framework and international standards for security and health data protection. <br/> Each consultation, transaction or document benefits from systematic encryption, enhanced authentication and complete traceability, thanks to an advanced electronic signature architecture natively integrated into the platform.",
+    "compliance": "Complete compliance with Moroccan and international standards",
+    "table": {
+      "headers": {
+        "domain": "Domain",
+        "commitment": "Mon Toubib Commitment",
+        "references": "Legal and normative references"
+      },
+      "rows": {
+        "domain1": "Data protection",
+        "commitment1": "Hosting in Morocco when required; CNDP compliance",
+        "references1": "Law 09-08 on personal data protection",
+        "domain2": "Authenticity & traceability",
+        "commitment2": "Unique 27-character identifier with mod-97 control key",
+        "references2": "ISO 7064 Standard",
+        "domain3": "Information security",
+        "commitment3": "Security policy compliant with international standards",
+        "references3": "ISO 27001, ISO 27701, ISO 27799",
+        "domain4": "National infrastructure",
+        "commitment4": "Possible deployment on DGSSI approved data centers",
+        "references4": "Law 05-20 (cybersecurity & digital trust)",
+        "domain5": "Interoperability",
+        "commitment5": "Compatibility with international medical standards",
+        "references5": "HL7, FHIR, IHE, ISO 13606",
+        "domain6": "Conservation & archiving",
+        "commitment6": "Encrypted backups and certifiable digital vault",
+        "references6": "Law 53-05 (electronic exchange of legal data)"
+      }
+    },
+    "d2": "Each document generated or signed via Mon Toubib is automatically: timestamped, linked to its issuer by a secure unique identifier, accompanied by an attachment page certifying its integrity and authenticity. This mechanism constitutes an advanced electronic signature, compliant with the Moroccan legal framework and recognized practices of the private and professional sector.",
+    "note": "Mon Toubib can ensure a level of security, compliance and sovereignty meeting the most demanding expectations. Your digital health remains confidential, traceable and protected."
+  },
+  "notreApproach": {
+    "title": "Our approach to digital security",
+    "subtitle": "Security integrated at every system level",
+    "description": "At Mon Toubib, security is not a secondary module: it is integrated into the heart of the architecture. Our platform applies protection in successive layers, combining:",
+    "linkText": "Discover our regulatory compliance",
+    "cards": {
+      "systematicEncryption": {
+        "title": "Systematic encryption",
+        "points": [
+          "• Data encrypted in transit (TLS 1.3)",
+          "• Data encrypted at rest (AES-256)",
+          "• Encryption of backups and internal replications"
+        ]
+      },
+      "accessControls": {
+        "title": "Enhanced access controls",
+        "points": [
+          "• MFA mandatory for healthcare professionals",
+          "• Signed sessions with each request",
+          "• Detailed roles and permissions (advanced RBAC)"
+        ]
+      },
+      "actionTraceability": {
+        "title": "Complete action traceability",
+        "points": [
+          "• Timestamped logging of all accesses",
+          "• Secure archiving",
+          "• No untraceable action possible"
+        ]
+      },
+      "infrastructureProtection": {
+        "title": "Infrastructure protection",
+        "points": [
+          "• Intelligent firewalls",
+          "• Anti-intrusion systems (IDS/IPS)",
+          "• Continuous monitoring",
+          "• Regular penetration tests"
+        ]
+      },
+      "serviceContinuity": {
+        "title": "Service continuity",
+        "points": [
+          "• High availability (HA)",
+          "• Documented DRP / BCP",
+          "• Possibility of multi-site replication in Morocco when required"
+        ]
+      },
+      "guaranteedConfidentiality": {
+        "title": "Guaranteed confidentiality",
+        "points": [
+          "• No unauthorized transmission",
+          "• Controlled and revocable patient consent",
+          "• Possibility of sovereign hosting in Morocco for public or institutional projects"
+        ]
+      }
+    }
+  },
+  "notreConformite": {
+    "title": "Our regulatory and normative compliance",
+    "subtitle": "A platform compliant with Moroccan and international requirements",
+    "cards": {
+      "moroccanLaws": {
+        "title": "Respected Moroccan legal framework",
+        "points": [
+          "• Law 09-08 (CNDP) — personal data protection.",
+          "• Law 05-20 — cybersecurity and sensitive infrastructures.",
+          "• Law 43-20 — digital trust services (signature, timestamping)",
+          "• Law 131-13 — practice of medicine.",
+          "• Code of Obligations and Contracts.",
+          "• Law 31-08 — consumer protection."
+        ]
+      },
+      "hostingSovereignty": {
+        "title": "Hosting and digital sovereignty",
+        "points": [
+          "• Possibility of deployment on data centers located in Morocco when required.",
+          "• Hosting compliant with GDPR / ISO for private actors.",
+          "• No DGSSI approval: compliance based on internal audits and measures.",
+          "• DRP/BCP documentation compliant with law 05-20."
+        ]
+      },
+      "internationalStandards": {
+        "title": "Respected International Standards",
+        "points": [
+          "• ISO 27001 (information security)",
+          "• ISO 27701 (privacy)",
+          "• ISO 27799 (health data security)",
+          "• HL7, FHIR, IHE, ISO 13606 (interoperability)"
+        ]
+      },
+      "governanceCompliance": {
+        "title": "Governance and internal compliance",
+        "points": [
+          "• Security policy + Privacy policy",
+          "• CNDP processing register",
+          "• Legal traceability of operations",
+          "• Advanced electronic signature compliant with law 43-20"
+        ]
+      },
+      "transparencyCommitment": {
+        "title": "Transparency commitment",
+        "points": [
+          "• Clear contracts",
+          "• Data never resold",
+          "• Auditability at any time"
+        ]
+      }
+    }
+  },
+  "partners": {
+    "title": "Partners & Institutions",
+    "subtitle": "Our trusted partners and institutions",
+    "description": "Mon Toubib is part of a progressive dynamic of structuring and modernizing e-health in Morocco. The platform is designed to be able to collaborate, when the regulatory and contractual framework allows, with institutions, regulatory bodies, private partners and academic structures. This approach aims to build, over time, a trust ecosystem serving a more coordinated, more secure and more accessible digital health.",
+    "subtitle2": "An open ecosystem, based on compliance and trust",
+    "publicInstitutions": "Public institutions",
+    "d2": "Any collaboration undertaken by Mon Toubib is based on clear principles: regulatory compliance, data protection, transparency of uses and respect for each actor's responsibilities. This approach guarantees a controlled, credible and sustainable evolution of the ecosystem.",
+    "d3": "Mon Toubib evolves with a logic of responsible partnership, serving a structured, compliant and sustainable Moroccan e-health.",
+    "card": {
+      "card1": {
+        "title": "1. Institutional and regulatory framework",
+        "description": "Mon Toubib is developed in strict respect of national regulatory frameworks relating to data protection, cybersecurity and digital health. Interactions with competent authorities are conducted exclusively within the applicable legal perimeter and according to required authorizations."
+      },
+      "card2": {
+        "title": "2. Academic and scientific ecosystem",
+        "description": "The platform can, in the long term, engage in collaboration dynamics with: <span><ul class=\"ml-5 list-disc\"><li class=\"ml-2\"> • universities and medical faculties,</li><li class=\"ml-2\"> • engineering schools and training institutes,</li><li class=\"ml-2\"> • digital health and artificial intelligence research structures, with a logic of innovation, training and skills transfer.</li></ul></span>"
+      },
+      "card3": {
+        "title": "3. Private actors and technical partners",
+        "description": "Mon Toubib is designed to be able to integrate into varied private environments: <span><ul class=\"ml-5 list-disc\"><li>healthcare establishments,</li><li class=\"ml-2\"> • laboratories and specialized centers,</li><li class=\"ml-2\"> • technological actors,</li><li class=\"ml-2\"> • professional organizations, respecting rules of confidentiality, interoperability and digital sovereignty.</li></ul></span>"
+      }
+    }
+  },
+  "join": {
+    "title": "Contact & Assistance",
+    "title2": "Join the Mon Toubib ecosystem",
+    "description": "Do you wish to join Mon Toubib as a healthcare professional, institutional partner or user? Our team is available to accompany you in integration, training and platform implementation, according to your profile and needs. Together, let's contribute to the evolution of digital health in Morocco.",
+    "cards": {
+      "healthcare_professionals": {
+        "title": "Healthcare professionals",
+        "description": "Integrate the Mon Toubib platform and access tools designed to optimize your practice management, strengthen medical coordination and improve patient experience."
+      },
+      "institutions_companies": {
+        "title": "Institutions & companies",
+        "description": "Collaborate with Mon Toubib to deploy e-health solutions adapted to your structures, respecting the applicable regulatory framework."
+      },
+      "support_assistance": {
+        "title": "Support & assistance",
+        "description": "Need help or information? Our team responds in the shortest delays. <br/> <span class='text-light-onSurfaceVariant font-bold hover:text-light-primary'>Contact@montoubib.com</span>"
+      }
+    },
+    "form": {
+      "full_name": "Full name",
+      "function": "Function",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send",
+      "success": "Sent successfully",
+      "specialties": {
+        "patient": "Patient",
+        "healthcare_professional": "Healthcare professional",
+        "institution": "Institution"
+      }
+    },
+    "subtitle": "Contact us today",
+    "d2": "Mon Toubib is an initiative developed by ASI Maroc SARL, specialized in digital solutions applied to health. The confidentiality of transmitted information is guaranteed, and data is used exclusively for processing your request, in accordance with current Moroccan laws."
+  },
+  "decouvrirPlatform": {
+    "title": "Discover Platform",
+    "subtitle1": "A unified platform for a more connected and more human healthcare",
+    "description1": "Mon Toubib is much more than a website or an application: it is a sovereign e-health ecosystem, developed in Morocco, designed to connect all healthcare actors — patients, professionals, establishments and public institutions — around a secure and coordinated care pathway. <br/> For healthcare professionals, the platform notably integrates an intelligent shared calendar, online appointment booking with mandatory payment, as well as structured management of patients and access rights.<br/> It also allows optimized organization of practice reception, with the possibility to display appointments and order of passage on a waiting room screen, to streamline flows, reduce tensions and improve patient experience.<br/> Each platform module has been designed to simplify care, strengthen prevention and guarantee confidentiality of medical data, respecting the applicable regulatory framework and recognized security standards.",
+    "subtitle2": "A vision: one record, continuous health",
+    "description2": "The heart of the system rests on the <span class='text-light-primary text-title-medium font-normal'>Shared Health Profile Record (DPSP)</span>, the true keystone around which other services are articulated:",
+    "p": "Together, these modules — complemented by transversal functionalities such as the intelligent shared calendar, pre-paid appointments and practice reception organization — constitute a complete, interoperable digital health chain adapted to the realities of the Moroccan healthcare system.",
+    "dpspTitle": "DPSP",
+    "dpspDescription": "Centralizes and protects the entire care pathway",
+    "card1": {
+      "title": "CSP",
+      "description": "Enables personal follow-up, prevention and well-being."
+    },
+    "card2": {
+      "title": "FCI",
+      "description": "Helps doctors structure and secure their consultations."
+    },
+    "card3": {
+      "title": "Dispo+",
+      "description": "Offers immediate availability for teleconsultations."
+    },
+    "card4": {
+      "title": "Health AI",
+      "description": "Assists patients and doctors via sovereign intelligence."
+    },
+    "card5": {
+      "title": "MRSS",
+      "description": "Brings the medical community and participatory prevention to life."
+    },
+    "card6": {
+      "title": "CMC",
+      "description": "Extends care to rural areas thanks to connected cabins."
+    },
+    "note": "\"Mon Toubib places sovereignty and trust at the heart of digital health. Medical data is processed in a framework compliant with applicable regulatory requirements and recognized security standards, guaranteeing confidentiality, traceability and integrity of exchanges.\" — ASI Maroc SARL",
+    "link1": "Explore the modules",
+    "link2": "View the Health AI demo",
+    "dpsp": "DPSP — The foundation of Mon Toubib care continuity",
+    "file": "One record for continuous and controlled health"
+  },
+  "dpsp": {
+    "title": "DPSP: Shared Patient Health Record",
+    "description": "The <span class='text-light-primary text-title-medium font-normal'>Shared Health Profile Record (DPSP)</span> constitutes the continuity foundation of the Mon Toubib ecosystem. It centralizes, in a secure and interoperable manner, medical information validated by healthcare professionals — history, prescriptions, test results, imaging, reports and follow-ups — while strictly respecting access, traceability and confidentiality rules. The DPSP is fed from <span class='text-light-primary text-title-medium font-normal'> Intelligent Consultation Forms (FCI) </span> and authorized business flows. The doctor remains master of the data they produce and decides, via sharing parameters, information made accessible to other authorized actors. The patient has consultation access, allowing them to verify the content of their record and ensure its transparency, in a relationship based on trust. The platform is designed to be deployed on infrastructures located in Morocco when this is required, or on environments compliant with applicable international standards, according to the regulatory and contractual framework of partners.",
+    "card1": {
+      "title": "Data centralization",
+      "description": "Grouping of medical information validated by healthcare professionals."
+    },
+    "card2": {
+      "title": "Security & confidentiality",
+      "description": "Controlled access, strong encryption, robust authentication and traceability compliant with CNDP/DGSSI requirements."
+    },
+    "card3": {
+      "title": "Controlled multi-actor access",
+      "description": "Regulated sharing between patient, doctor, laboratory or pharmacy, according to authorization and signature."
+    },
+    "card4": {
+      "title": "Intelligent interoperability",
+      "description": "Native integration with <span class='text-light-primary text-title-medium font-normal'> CSP, FCI, Dispo+, Health AI, MRSS</span> and <span class='text-light-primary text-title-medium font-normal'> CMC </span>(HL7/FHIR standard)."
+    },
+    "card5": {
+      "title": "Complete and auditable history",
+      "description": "Automatic timestamping, access logging and legal document conservation."
+    },
+    "p": "The DPSP acts as an evolving foundation: it accompanies the patient throughout their care pathway, while guaranteeing medical responsibility and clinical coherence.",
+    "d1": "The DPSP is a personal health heritage, managed in a framework of trust. It relies on key identification, traceability and proprietary Mon Toubib electronic signature mechanisms, guaranteeing data integrity and responsibility of medical acts. — ASI Maroc SARL",
+    "link1": "Access my patient space",
+    "link2": "Discover professional tools",
+    "link3": "Learn more about data security"
+  },
+  "csp": {
+    "title": "CSP: Personal Health Notebook",
+    "description": "The <span class='text-light-primary text-title-medium font-normal'> Personal Health Notebook (CSP)</span> is the individual patient space within the Mon Toubib ecosystem. Accessible primarily via the MTS Patient application, it allows each user to monitor their health status, keep their personal prevention information, and better prepare for their medical consultations. The CSP is not intended to replace the medical record: it acts as a personal monitoring and prevention space, synchronized with the <span class='text-light-primary text-title-medium font-normal'> Shared Patient Health Record (DPSP)</span> ensuring consistency of information validated by healthcare professionals. Thanks to Health AI and integrated support tools, the CSP helps the patient better understand their data, structure their questions, and become an informed actor in their care pathway, within a strictly confidential framework.",
+    "card1": {
+      "title": "Personal health monitoring",
+      "description": "Visualization of health reports, vaccinations, treatments and appointments."
+    },
+    "card2": {
+      "title": "Smart reminders",
+      "description": "Notifications for upcoming examinations, prescriptions to renew and medical follow-ups."
+    },
+    "card3": {
+      "title": "Wellness summary",
+      "description": "Simple indicators (weight, blood pressure, activity, sleep) presented in an educational manner."
+    },
+    "card4": {
+      "title": "Health AI support",
+      "description": "Help understanding information and preparing exchanges with the doctor."
+    },
+    "card5": {
+      "title": "Controlled confidentiality",
+      "description": "Strictly personal access, secure and compliant with applicable regulatory framework."
+    },
+    "csp": "CSP — The Personal Health Notebook serving the patient",
+    "title2": "Your health, monitored, understood and accompanied",
+    "p": "The CSP reinforces prevention and patient autonomy, while remaining fully integrated into the medical framework structured by the DPSP.",
+    "note": "The Personal Health Notebook allows each patient to better understand their health, without ever substituting the doctor's role. It is part of a responsible, secure approach respectful of personal data confidentiality. — ASI Maroc SARL",
+    "link1": "Activate my Health Notebook",
+    "link2": "Discover how Health AI helps you",
+    "link3": "Learn more about confidentiality"
+  },
+  "fci": {
+    "title": "FCI: Intelligent Consultation Forms",
+    "description": "The <span class='text-light-primary text-title-medium font-normal'> Intelligent Consultation Forms (FCI) </span> constitute a central working tool for doctors and healthcare professionals using the Mon Toubib platform. They allow structuring, documenting and securing medical consultations, while ensuring consistency of produced information and its traceability. FCIs integrate voice transcription and Health AI assistance tools, available in both MTS Doctor and MTS Patient. These tools have no diagnostic purpose: they help with reformulation and content structuring, <br/> • in structured medical language for healthcare professionals, <br/> • in clear and understandable language for patients, to facilitate exchange with the doctor. <br/>Each validated FCI is electronically signed and feeds the Shared Patient Health Record (DPSP) according to sharing rules defined by the practitioner.",
+    "card1": {
+      "title": "Structured drafting",
+      "description": "Digital form organized by specialty, facilitating clinical data entry."
+    },
+    "card2": {
+      "title": "Integrated voice transcription",
+      "description": "Conversion of speech to text, usable by the doctor or patient, with context-adapted reformulation."
+    },
+    "card3": {
+      "title": "Health AI assistance",
+      "description": "Help with reformulation, clarification and content synthesis, without diagnostic assistance."
+    },
+    "card4": {
+      "title": "Contextualized DPSP access",
+      "description": "Consultation of relevant patient record elements during drafting."
+    },
+    "card5": {
+      "title": "Integrated electronic signature",
+      "description": "Legal validation of the consultation via proprietary Mon Toubib electronic signature."
+    },
+    "card6": {
+      "title": "Complete traceability",
+      "description": "Timestamping, logging and compliant conservation of consultations."
+    },
+    "title1": "FCI — The digital structuring of medical consultation",
+    "title2": "A drafting, traceability and compliance tool serving the practitioner",
+    "p": "FCIs reinforce the documentary quality of the consultation, while respecting clinical independence and doctor responsibility.",
+    "note": "The Mon Toubib FCI structures the consultation without ever interfering with the medical act. It guarantees reliable, traceable and compliant documentation, while leaving the practitioner full control over content and clinical decisions. — ASI Maroc SARL",
+    "link1": "Access my professional space",
+    "link2": "Discover how FCIs work",
+    "link3": "Learn more about electronic signature"
+  },
+  "dispo": {
+    "title": "Dispo+: Immediate Availability",
+    "description": "<span class='text-light-primary text-title-medium font-normal'>Dispo+ </span> is the immediate availability module of the Mon Toubib platform. It allows patients to contact in real time a doctor available for a secure teleconsultation, without scheduled appointment. Access to Dispo+ is strictly conditioned on immediate payment, made before any contact with the healthcare professional. This rule guarantees a clear framework, respectful of medical time, and avoids any abusive or non-serious use of the service. Once payment is validated, the patient can connect with an available doctor via a regulated teleconsultation, integrated into the Mon Toubib care pathway.",
+    "card1": {
+      "title": "Real-time availability",
+      "description": "Immediate connection with a connected and available doctor."
+    },
+    "card2": {
+      "title": "Mandatory immediate payment",
+      "description": "Payment validation required before any exchange or teleconsultation."
+    },
+    "card3": {
+      "title": "Secure teleconsultation",
+      "description": "Encrypted video consultation, within a confidential and compliant framework."
+    },
+    "card4": {
+      "title": "Integration into care pathway",
+      "description": "The teleconsultation can feed the FCI and DPSP according to medical validation."
+    },
+    "card5": {
+      "title": "Exchange traceability",
+      "description": "Timestamping and logging of the consultation respecting applicable rules."
+    },
+    "card6": {
+      "title": "Contextual orientation",
+      "description": "Connection according to specialty and immediate availability."
+    },
+    "title1": "Dispo+ — Contact an available doctor in real time, with complete security",
+    "title2": "Immediate, regulated and responsible teleconsultation",
+    "p": "Dispo+ responds to situations requiring rapid care, without replacing in-practice consultation or scheduled medical follow-up.",
+    "note": "Dispo+ protects the medical relationship by establishing a clear framework from the first contact. Prior payment, traceability and securing of exchanges guarantee responsible teleconsultation respectful of both practitioner and patient. — ASI Maroc SARL",
+    "link1": "Find an available doctor",
+    "link2": "Access my patient space",
+    "link3": "Understand how Dispo+ works"
+  },
+  "iaSante": {
+    "title": "Health AI: Intelligent Support Assistant",
+    "description": "The <span class='text-light-primary text-title-medium font-normal'>Health AI </span>Mon Toubib is a digital assistant designed to accompany patients and healthcare professionals in understanding, formulating and structuring medical exchanges. Accessible from both MTS Patient and MTS Doctor, Health AI relies on voice transcription tools, intelligent reformulation and contextualized synthesis, to facilitate communication between patient and practitioner. Health AI has no purpose of making a diagnosis nor substituting the doctor. It intervenes exclusively as a tool to aid expression, preparation and readability of information, strictly respecting medical responsibility. All interactions are secured, traced and integrated into the Mon Toubib ecosystem according to access and validation rules defined by healthcare professionals.",
+    "card1": {
+      "title": "Intelligent voice transcription",
+      "description": "Conversion of speech to text, usable by the patient or healthcare professional."
+    },
+    "card2": {
+      "title": "Contextualized reformulation",
+      "description": "Reformulation in structured medical language for professionals, or in clear and understandable language for patients."
+    },
+    "card3": {
+      "title": "Consultation preparation",
+      "description": "Help structuring symptoms, questions and information before a medical exchange."
+    },
+    "card4": {
+      "title": "Information synthesis",
+      "description": "Clear and readable presentation of elements from CSP, FCI or DPSP, according to authorization."
+    },
+    "card5": {
+      "title": "Confidentiality and control",
+      "description": "Regulated, traceable use compliant with security and data protection rules."
+    },
+    "title1": "Health AI — An intelligent assistant serving medical understanding and exchange",
+    "title2": "An accompanying intelligence, ethical and controlled",
+    "p": "Health AI improves the quality of medical exchange, without ever interfering with the clinical act or therapeutic decision.",
+    "note": "Mon Toubib Health AI accompanies without deciding. It helps to better express, better understand and better prepare medical exchanges, while fully respecting the expertise and responsibility of the healthcare professional. — ASI Maroc SARL",
+    "link1": "Try the Health AI demo",
+    "link2": "Discover how AI prepares your consultation",
+    "link3": "Access the Health AI professional space"
+  },
+  "mrss": {
+    "title": "MRSS: My Health Social Network",
+    "description": "The <span class='text-light-primary text-title-medium font-normal'> Secure Medical and Regulatory Space (MRSS) </span> is a digital exchange, information and prevention space, integrated into the Mon Toubib ecosystem. It is structured around two distinct and complementary environments, designed to respond to real uses of each audience: <br/> • MRSS Users, intended for patients and citizens, <br/>• MRSS Pro, reserved for authenticated healthcare professionals.<br/>This separation guarantees adapted, responsible and compliant exchanges, while promoting prevention, education and health coordination, without ever substituting individual medical consultation. MRSS access is offered via differentiated interfaces, designed for patient mobility and professional efficiency for caregivers.",
+    "card1": {
+      "title": "Awareness groups",
+      "description": "Thematic spaces around prevention, well-being and public health."
+    },
+    "card2": {
+      "title": "Verified health news",
+      "description": "Validated information, official campaigns and institutional messages."
+    },
+    "card3": {
+      "title": "Education & prevention",
+      "description": "General advice and educational content accessible to all."
+    },
+    "card4": {
+      "title": "Authenticated profiles",
+      "description": "Verified user accounts guaranteeing responsible exchanges."
+    },
+    "title1": "MRSS — The Moroccan health network, structured for citizens and professionals",
+    "title2": "Two distinct spaces, two uses, one same trust framework",
+    "title3": "MRSS Users — Patient and citizen space",
+    "title4": "MRSS Pro — Healthcare professional space",
+    "p1": "Main access channels: MTS Patient mobile application (main use), Mon Toubib website (complementary access).",
+    "p2": "No personalized medical advice is provided in MRSS Users. Exchanges are general, educational and regulated.",
+    "p3": "Main access channels: MTS Doctor web application (main use), Professional mobile applications and tablets.",
+    "p4": "MRSS Pro is a closed space, distinct from public uses, intended for professional collaboration.",
+    "note": "MRSS relies on clear separation of uses and responsibilities. Citizens have a prevention and information space, while professionals benefit from a secure peer exchange environment, respecting ethics and regulatory framework. — ASI Maroc SARL",
+    "link1": "Access MRSS Users",
+    "link2": "Access MRSS Pro",
+    "link3": "Discover health communities",
+    "link4": "View health news",
+    "cards2": {
+      "card1": {
+        "title": "Professional communities",
+        "description": "Peer exchange spaces, by specialty or theme."
+      },
+      "card2": {
+        "title": "Specialized content",
+        "description": "Publications, recommendations and regulated experience feedback."
+      },
+      "card3": {
+        "title": "Webinars & training",
+        "description": "Continuing education sessions and professional exchanges."
+      },
+      "card4": {
+        "title": "Reserved and verified access",
+        "description": "Access conditioned on professional status verification."
+      }
+    }
+  },
+  "cmc": {
+    "title": "CMC: Connected Medical Cabins",
+    "title1": "CMC — Digital health closest to citizens and professional environments",
+    "title2": "An inclusive, territorial and professional e-health solution",
+    "description": "Connected Medical Cabins (CMC) constitute one of the most concrete extensions of the Mon Toubib ecosystem to facilitate access to care and reduce territorial and organizational inequalities. Deployed in rural areas, semi-urban areas or within large companies, at headquarters or remote sites, CMCs allow access to assisted teleconsultation, regulated by connected medical devices and secure protocols. Each CMC is natively integrated into the Mon Toubib platform and the Shared Health Profile Record (DPSP), guaranteeing continuity of medical follow-up, traceability of acts and strict respect of applicable regulatory framework.",
+    "card1": {
+      "title": "Assisted teleconsultation",
+      "description": "Remote consultation between patient and doctor, accompanied by a trained agent or regulated device."
+    },
+    "card2": {
+      "title": "Connected medical devices",
+      "description": "Assisted measurement of vital parameters (blood pressure, heart rate, temperature, saturation, etc.)."
+    },
+    "card3": {
+      "title": "DPSP connection",
+      "description": "Secure recording of data and reports in the Shared Health Profile Record."
+    },
+    "card4": {
+      "title": "Health AI assistance",
+      "description": "Help with preparation, reformulation and understanding of information, without diagnostic assistance."
+    },
+    "card5": {
+      "title": "Security & supervision",
+      "description": "Encrypted transmission, traceability and remote supervision, compliant with regulatory requirements."
+    },
+    "card6": {
+      "title": "Business use & occupational medicine",
+      "description": "Possible deployment within companies, for follow-up, prevention and medical orientation of employees, including at remote sites."
+    },
+    "p": "CMCs complement existing care offerings, without substituting traditional medical structures, and are part of a logic of proximity, prevention and continuity.",
+    "note": "Connected Medical Cabins embody a proximity, responsible and controlled e-health. They bring citizens and healthcare professionals closer, while respecting dignity, confidentiality and regulatory framework. — ASI Maroc SARL",
+    "link1": "Discover the CMC program",
+    "link2": "View pilot regions and sites",
+    "link3": "Become a deployment partner"
+  },
+  "securityandebergement": {
+    "title": " MTS Electronic Signature & Hosting",
+    "subtitle": "MTS Electronic Signature & Hosting — The foundations of digital trust",
+    "description": "The MTS Electronic Signature and data hosting mechanisms constitute structuring elements of the Mon Toubib platform. They guarantee user authenticity, document integrity, action traceability and regulatory compliance of all digital exchanges. Mon Toubib relies on a proprietary system of unique identifiers with control key, used for identification of persons, documents, medical acts and, where applicable, connected equipment. This device constitutes the foundation of the MTS Electronic Signature, natively integrated into the platform and independent of e-signature solutions proposed by third-party companies. Resort to an external electronic signature solution is only considered if required by a competent authority, particularly CNDP, or within specific regulatory or contractual requirements.",
+    "compliance": "A reliable digital identity and signature integrated into the MTS ecosystem",
+    "table": {
+      "headers": {
+        "domain": "Mon Toubib Mechanism",
+        "commitment": "References"
+      },
+      "rows": {
+        "domain1": "User identification",
+        "commitment1": "Unique MTS identifier with control key, ensuring robust and traceable authentication.",
+        "domain2": "MTS Electronic Signature",
+        "commitment2": "Proprietary electronic signature, linked to the MTS identifier and concerned act or document.",
+        "domain3": "Traceability and timestamping",
+        "commitment3": "Complete logging of actions, timestamping and auditability of exchanges.",
+        "domain4": "Legal conservation",
+        "commitment4": "Secure archiving and compliant conservation of medical documents.",
+        "domain5": "Adaptable hosting",
+        "commitment5": "Possible deployment on infrastructures located in Morocco when required, or on environments compliant with applicable international standards."
+      }
+    },
+    "p": "All these mechanisms form a coherent trust chain, integrated into the MTS ecosystem, from user identification to medical document conservation.",
+    "d2": "The MTS Electronic Signature relies on an integrated, controlled and traceable architecture. It guarantees act authenticity and user responsibility, while remaining compliant with legal framework and adaptable to regulatory authority requirements. — ASI Maroc SARL.",
+    "link1": "Discover the MTS Electronic Signature",
+    "link2": "Understand our security guarantees",
+    "link3": "Consult our standards and commitments"
+  },
+  "demo": {
+    "title": "Interactive Health AI Demo",
+    "subtitle": "Health AI Demo — Discover the Mon Toubib accompanying AI",
+    "description": "To allow each visitor — patient, healthcare professional or partner — to better understand the Mon Toubib approach, the platform proposes an interactive Health AI demo, accessible directly from the institutional website. This demonstration has an exclusively pedagogical purpose. It illustrates how Mon Toubib Health AI can help formulate, reformulate and structure health information, without ever making a diagnosis nor substituting a healthcare professional. The demo allows concrete visualization of AI use in a controlled, ethical and compliant framework, as proposed within MTS Patient and MTS Doctor applications.",
+    "compliance": "A pedagogical, ethical demonstration without real data",
+    "d2": "This demonstration has no medical or decision-making purpose. It only allows understanding the Mon Toubib approach: an AI serving understanding, exchange and preparation, within a strictly regulated framework. — ASI Maroc SARL",
+    "card1": {
+      "title": "Simulated interactive chat",
+      "description": "Dialogue interface illustrating reformulation and clarification of health exchanges."
+    },
+    "card2": {
+      "title": "Voice transcription example",
+      "description": "Illustration of speech to text conversion, without actual recording."
+    },
+    "card3": {
+      "title": "Contextualized reformulation",
+      "description": "Presentation of difference between structured medical language and understandable patient language."
+    },
+    "card4": {
+      "title": "Consultation preparation",
+      "description": "Example of structuring questions or symptoms before a medical exchange."
+    },
+    "card5": {
+      "title": "No real data",
+      "description": "Fictitious data, not conserved, used solely for demonstration purposes."
+    },
+    "p": "The demo illustrates Health AI functioning, without exploiting personal data nor triggering real medical pathway.",
+    "link1": "Launch the Health AI demo",
+    "link2": "Discover how AI accompanies consultations",
+    "link3": "Access Health AI in the application"
+  },
+  "securityAndConformite": {
+    "title": "Security & Compliance",
+    "subtitle": "Security & Compliance — A protected and certified digital health",
+    "description": "Security and regulatory compliance constitute structuring principles of the Mon Toubib platform. Data, consultations and documents exchanged via the platform are protected by technical and organizational devices designed to be compliant with applicable national laws (09-08, 05-20, 43-20, 53-05) as well as recognized international standards (ISO 27001, ISO 27701, ISO 27799, HL7, FHIR). This approach guarantees enhanced protection of health data, complete traceability thanks to the unique identifier with control key, as well as an MTS Electronic Signature, compliant with law 43-20, ensuring integrity, authenticity and non-repudiation of each medical document. The platform is designed to be deployed on infrastructures compliant with applicable security and data protection standards. When required, particularly in response to regulatory, institutional or contractual requirements (CNDP, DGSSI, public organisms or large accounts), hosting on infrastructure located in Morocco can be established, in accordance with current legal framework. Mon Toubib thus places compliance, transparency and digital security at the service of trust between citizens, healthcare professionals and institutions.",
+    "compliance": "A secure and certified framework for Moroccan e-health",
+    "table": {
+      "headers": {
+        "domain": "Domain",
+        "commitment": "Mon Toubib Commitment",
+        "references": "Legal and normative references "
+      },
+      "rows": {
+        "domain1": "Compliant hosting",
+        "commitment1": "Adaptable architecture allowing, when required, deployment on data centers located in Morocco or on environments compliant with international security standards.",
+        "references1": "Law 05-20 / Law 43-20 ISO 27001, 27701, 27799",
+        "domain2": "Data protection",
+        "commitment2": "Privacy policy compliant with Law 09-08, access control, data encryption and regular security audits.",
+        "references2": "CNDP – Law 09-08",
+        "domain3": "MTS Electronic Signature",
+        "commitment3": "Each document is signed via a unique identifier associated with a Mod-97 control key, guaranteeing integrity and traceability, without systematic dependence on e-signature third parties.",
+        "references3": "Law 43-20 / Law 53-05",
+        "domain4": "Complete traceability",
+        "commitment4": "Automatic action logging, timestamping and auditability of operations.",
+        "references4": "ISO 27001 / 27701 / 27799",
+        "domain5": "Medical interoperability",
+        "commitment5": "Structured data exchange between DPSP, FCI and CSP modules according to international standards.",
+        "references5": "HL7, FHIR, ISO 13606",
+        "domain6": "DGSSI requirements",
+        "commitment6": "Implementation of cybersecurity measures provided by law 05-20: SSI governance, incident management and internal supervision.",
+        "references6": "Law 05-20"
+      }
+    },
+    "d2": "These guarantees are integrated from design (« Security by Design ») and applied by default («Security by Default »). \"Compliance is not an option, it is our foundation. Mon Toubib is part of a responsible, ethical digital health approach strictly aligned with requirements of the Moroccan legal framework.\" — ASI Maroc SARL",
+    "link1": "Discover our certifications",
+    "link2": "Consult our interoperability standards",
+    "link3": "Report a security incident",
+    "p": "Mon Toubib is part of a responsible digital health approach. The platform is designed to operate respecting applicable regulatory framework, recognized security standards and data protection requirements. A lasting trust base for citizens and healthcare professionals."
+  },
+  "espaceUtilisateur": {
+    "introTitle": "User space",
+    "mainTitle": "User Space — Two universes, one single health platform",
+    "description": "Mon Toubib connects, within the same ecosystem, patients and healthcare professionals. This complementarity is at the heart of the platform's mission: simplify patient life while optimizing medical practice, within a secure and sovereign framework. Each space has a dedicated interface, designed according to real user needs, but connected to the same foundation: the <span class='text-light-primary text-title-medium font-normal'>Shared Health Profile Record (DPSP)</span>, guarantor of traceability and care continuity.",
+    "accessTitle": "A fluid, secure access adapted to each profile",
+    "patientCard": {
+      "title": "Patient Space",
+      "description": "Monitor health, manage appointments, consult results and interact with Health AI."
+    },
+    "professionalCard": {
+      "title": "Professional Space",
+      "description": "Manage records, draft FCIs, sign documents and follow practice activity."
+    },
+    "note": "These two environments function in total synchronization, guaranteeing fluid communication between patient and professional, respecting Moroccan laws (09-08, 05-20, 131-13). \"Mon Toubib offers a complete experience: a citizen space for individual follow-up, and a professional space for digital medical practice. Two accesses, one same sovereignty.\" — ASI Maroc SARL",
+    "link1": "Access the Patient space",
+    "link2": "Access the Professional space",
+    "link3": "Discover DPSP synchronization",
+    "p": "One patient, one professional, one same objective: simplify health and reinforce digital trust in Morocco."
+  },
+  "espacePatient": {
+    "title": "Patient Space",
+    "title2": "An intuitive, complete and sovereignly hosted interface",
+    "subtitle": "Patient Space — Your health, in your hands, with complete confidence",
+    "description": "The Patient Space is the personal access point to all Mon Toubib services. From this simple and intuitive interface, each Moroccan citizen can monitor their health, access their medical results, make an appointment and exchange securely with their doctor or with Health AI. Designed to reinforce prevention and patient autonomy, the space is based on the <span class='text-light-primary text-title-medium font-normal'> Shared Health Profile Record (DPSP)</span> and the <span class='text-light-primary text-title-medium font-normal'> Personal Health Notebook (CSP)</span>. Each user is identified by a secure unique identifier with control key, guaranteeing integrity and traceability of their data.",
+    "card1": {
+      "title": "Complete health record (DPSP)",
+      "description": "Consult your history, prescriptions, reports and examinations in a single space."
+    },
+    "card2": {
+      "title": "Appointments & Dispo+",
+      "description": "Make or manage your medical appointments, in-person or via teleconsultation."
+    },
+    "card3": {
+      "title": "Health AI",
+      "description": "Ask your questions, prepare your consultations and follow your prevention advice."
+    },
+    "card4": {
+      "title": "Personal Health Notebook (CSP)",
+      "description": "Monitor your health indicators and reminders (vaccinations, reports, treatments)."
+    },
+    "card5": {
+      "title": "Signed medical documents",
+      "description": "Download your prescriptions, results and reports certified and timestamped."
+    },
+    "card6": {
+      "title": "Security & Confidentiality",
+      "description": "Access protected by unique identifier, Mod-97 key and CNDP/DGSSI hosting."
+    },
+    "note": "Thanks to its ergonomic design and synchronization with the DPSP, the Patient Space transforms health management into a fluid, educational and sovereignly secure pathway. \"Every Moroccan citizen deserves a safe, clear and accessible digital health space. Mon Toubib offers everyone a modern tool to monitor, understand and protect their health — in absolute respect of national sovereignty and medical confidentiality.\" — ASI Maroc SARL",
+    "link1": "Access my patient space",
+    "link2": "Discover the patient guide",
+    "link3": "Learn more about data protection",
+    "p": "The Patient Space is connected health, simple and sovereign. Your health, your data, your Morocco."
+  },
+  "espaceProfessionnel": {
+    "title": "Professional Space",
+    "subtitle": "Professional Space — The digital ecosystem serving the Moroccan medical community",
+    "description": "The Mon Toubib Professional Space is a web platform dedicated to doctors, pharmacists, biologists, psychologists, physiotherapists, and all healthcare actors. It offers a secure environment to manage patient records, draft <span class='text-light-primary text-title-medium font-normal'> Intelligent Consultation Forms (FCI) </span>, electronically sign documents, and communicate with complete confidentiality with other professionals. Designed in Morocco, this space meets highest security standards (ISO 27001, 27701, 27799, GDPR) and respects applicable Moroccan laws, particularly law 131-13 on medical practice and law 09-08 on personal data protection. The platform can be deployed on infrastructures located in Morocco when required, in conformity with law 05-20 and law 43-20.",
+    "card1": {
+      "title": "Intelligent Consultation Forms (FCI)",
+      "description": "Draft, sign and archive your consultations according to medical standards."
+    },
+    "card2": {
+      "title": "DPSP access",
+      "description": "Consult the Shared Health Profile Record in real time, with traceability and consent."
+    },
+    "card3": {
+      "title": "Health AI assistance",
+      "description": "Benefit from clinical decision support based on validated Moroccan corpuses."
+    },
+    "card4": {
+      "title": "Practice management",
+      "description": "Manage appointments, payments, archives and your activity statistics."
+    },
+    "card5": {
+      "title": "Advanced electronic signature",
+      "description": "Apply your secure digital signature via unique identifier and Mod-97 control key."
+    },
+    "card6": {
+      "title": "Professional MRSS",
+      "description": "Share your experiences, publish anonymized cases, participate in medical webinars."
+    },
+    "title2": "Modernize medical practice preserving sovereignty and ethics",
+    "note": "The Professional Space is a sovereign, interoperable and evolutive solution, designed to respond to concrete needs of Moroccan practitioners in a compliant and ergonomic framework. \"Mon Toubib values the role of the Moroccan doctor in digital health transformation. Each functionality has been designed with and for professionals, respecting ethics, confidentiality and national sovereignty.\" — ASI Maroc SARL",
+    "link1": "Access my professional space",
+    "link2": "Discover FCIs",
+    "link3": "Explore Health AI Pro",
+    "link4": "Join MRSS Pro",
+    "p": "The Mon Toubib Professional Space is a new way to practice: modern, compliant, interconnected and 100% Moroccan."
+  },
+  "tutorials": {
+    "title": "Tutorials",
+    "patient": {
+      "categories": {
+        "home": "Home",
+        "explore": "Explore",
+        "appointments": "Appointments",
+        "messages": "Messages",
+        "ai": "Toubib AI"
+      },
+      "videos": {
+        "home": {
+          "video1": "Discover the home page",
+          "video2": "Exploring nearby doctors",
+          "video3": "Exploring nearby pharmacies",
+          "video4": "Exploring nearby centers"
+        },
+        "explore": {
+          "video1": "Discover the Explore page",
+          "video2": "Exploring Explore sections",
+          "video3": "Menu navigation"
+        },
+        "appointments": {
+          "video1": "Discover the home page",
+          "video2": "Exploring home sections",
+          "video3": "Menu navigation"
+        },
+        "messages": {
+          "video1": "Discover the home page",
+          "video2": "Exploring home sections",
+          "video3": "Menu navigation"
+        },
+        "ai": {
+          "video1": "Discover the home page",
+          "video2": "Exploring home sections",
+          "video3": "another section"
+        }
+      }
+    }
+  },
+  "filterPages": {
+    "patient": "Patient",
+    "professional": "Professional"
+  },
+  "tutorialss": {
+    "title": "Tutorials",
+    "noVideos": {
+      "alt": "No tutorial",
+      "title": "No tutorial available",
+      "description": "Tutorials for this section are coming soon."
+    },
+    "professional": {
+      "categories": {
+        "home": "Dashboard",
+        "explore": "Explore",
+        "appointments": "Appointments",
+        "messages": "Messages",
+        "ai": "Toubib AI"
+      },
+      "videos": {
+        "home": {
+          "video1": "Discover the dashboard",
+          "video2": "Main menu navigation"
+        },
+        "explore": {
+          "video1": "Discover the Explore page",
+          "video2": "Search for patients",
+          "video3": "Filter results"
+        },
+        "appointments": {
+          "video1": "Manage appointment agenda",
+          "video2": "Schedule a consultation"
+        },
+        "messages": {
+          "video1": "Send messages to patients",
+          "video2": "Manage conversations",
+          "video3": "Share documents"
+        },
+        "ai": {
+          "video1": "Use the medical AI assistant",
+          "video2": "Analyze patient data",
+          "video3": "Generate reports"
+        }
+      }
+    }
+  },
+  "mtAcademy": {
+    "title": "Mon Toubib Academy",
+    "monToubibParcour": {
+      "title": "Mon Toubib Academy",
+      "subtitle": "Train your assistants & modernize your practice.",
+      "imageAlt": "Doctor Mon Toubib Academy",
+      "feature1": {
+        "alt": "Assistant training",
+        "title": "Assistant training"
+      },
+      "feature2": {
+        "alt": "Doctor training",
+        "title": "Doctor training"
+      },
+      "feature3": {
+        "alt": "E-learning & Certification",
+        "title": "E-learning & Certification"
+      }
+    },
+    "etapesDeFormation": {
+      "mainTitle": "In-person + E-learning pathway",
+      "presentiel": {
+        "imageAlt": "In-person training",
+        "title": "In-person training",
+        "description": "Practical and interactive sessions to master Mon Toubib system functionalities."
+      },
+      "elearning": {
+        "imageAlt": "E-learning modules",
+        "title": "E-learning modules",
+        "description": "Online courses to deepen your skills remotely and at your own pace."
+      },
+      "hybridDescription": "Combining flexibility and immersion, Mon Toubib Academy proposes hybrid trainings adapted to your needs.",
+      "stepsTitle": "Training steps",
+      "step1": {
+        "imageAlt": "Registration",
+        "title": "Registration",
+        "description": "Register for the training"
+      },
+      "step2": {
+        "imageAlt": "E-learning",
+        "title": "E-learning",
+        "description": "Follow online modules"
+      },
+      "step3": {
+        "imageAlt": "In-person",
+        "title": "In-person",
+        "description": "Participate in a classroom session"
+      },
+      "step4": {
+        "imageAlt": "Certification",
+        "title": "Certification",
+        "description": "Obtain the certificate"
+      }
+    },
+    "t1": "Make an appointment with Dispo+",
+    "t2": "Activate my patient account",
+    "t3": "Use the Personal Health Notebook (CSP)",
+    "t4": "Discover Health AI",
+    "t5": "Access the professional space",
+    "t6": "Understand electronic signature",
+    "title2": "Tutorials & Help \"How does it work?\"",
+    "title3": "Tutorials & Help — Master your Mon Toubib platform in a few clicks",
+    "title4": "Human and digital support, 24/7",
+    "description": "The Tutorials & Help section has the mission to accompany each user — patient, professional or partner — in simple and progressive handling of the Mon Toubib platform. Explanatory videos, interactive guides and mini-trainings are available to understand how to make an appointment, activate an account, use Health AI, or consult the DPSP with complete security. This assistance center constitutes a true digital pedagogy space: it allows ensuring fluid adoption, responsible use and better understanding of sovereign health tools.",
+    "note": "All tutorials are produced by ASI Maroc teams and disseminated via the Mon Toubib platform, guaranteeing verified content, compliant with current regulation and regularly updated. \"Mon Toubib bets on pedagogy and transparency. Our tutorials are designed to make digital health accessible to all, while maintaining highest security and compliance standards.\" — ASI Maroc SARL",
+    "link1": "Access all tutorials",
+    "link2": "Consult the FAQ",
+    "link3": "View explanatory videos",
+    "link4": "Contact technical support",
+    "p": "With Mon Toubib, each user is accompanied step by step, for a clear, sovereign and human digital experience. Understand, learn, act — with complete confidence."
+  },
+  "communaute": {
+    "title": "Community & Partnerships",
+    "comunite": {
+      "title": "Mon Toubib Community — The first trusted Moroccan health network",
+      "title2": "A moderated, verified, and educational health social network",
+      "description": "The secure and regulatory Medical Space (MRSS), integrated into the Mon Toubib platform, is a unique community and professional space. It brings together patients, practitioners, associations, researchers, and institutions around a common goal: fostering dialogue, prevention, and collaboration while respecting medical confidentiality and national regulations. Each MRSS member benefits from a verified and authenticated profile, ensuring the reliability of exchanges and combating medical misinformation. This space contributes to Mon Toubib's ambition: creating a connected, benevolent, and sovereign Moroccan health ecosystem.",
+      "card1": {
+        "title": "Health discussion groups",
+        "description": "Varied themes: diabetes, mental health, nutrition, maternity, prevention, etc."
+      },
+      "card2": {
+        "title": "Professional community",
+        "description": "Medical exchanges, anonymized clinical cases, feedback, webinars."
+      },
+      "card3": {
+        "title": "Awareness & prevention",
+        "description": "Health campaigns certified by institutional partners and Moroccan associations."
+      },
+      "card4": {
+        "title": "Verified health news feed",
+        "description": "Articles and advice validated by medical committees and Mon Toubib teams."
+      },
+      "card5": {
+        "title": "Moderation & security",
+        "description": "Content control, reporting, CNDP/DGSSI account authentication."
+      },
+      "note": "The MRSS acts as a trusted network, based on digital sovereignty, shared responsibility, and transparency of health exchanges. “The MRSS reinvents social networks the Moroccan way: an authenticated, moderated, and educational community, where health is shared, discussed, and valued responsibly.” — ASI Maroc SARL",
+      "link1": "Join the health community",
+      "link2": "Access the MRSS space",
+      "link3": "View prevention campaigns",
+      "link4": "Participate in a webinar",
+      "p": "Mon Toubib, through the MRSS, creates the first connected Moroccan health community, where citizens, professionals, and institutions move together towards a shared, ethical, and sovereign health."
+    },
+    "comunite2": {
+      "title": "Partners & Institutions — Together for a sovereign digital health",
+      "title2": "A strategic alliance between public and private actors",
+      "description": "The Mon Toubib project relies on a solid network of public, private, and associative partners, mobilized to advance digital health in Morocco. These collaborations ensure coherence between the technical, medical, regulatory, and social dimensions of the project, within an ethical framework aligned with the Kingdom's national orientations. By bringing together the technological expertise of ASI Maroc, the know-how of Moroccan health professionals, and the support of national institutions, Mon Toubib works to build a Moroccan model of sovereign e-health, exportable in the long term to other African countries.",
+      "card1": {
+        "title": "National institutions",
+        "description": "Regulatory support, compliance, accompanying public health policies. <br/><span class='text-light-onSurfaceVariant font-title-medium font-semibold'> e.g.: Ministry of Health, CNDP, DGSSI, ANRT. </span>"
+      },
+      "card2": {
+        "title": "Technological partners",
+        "description": "Infrastructure, cybersecurity, optional sovereign hosting, interoperability. <br/> <span class='text-light-onSurfaceVariant font-title-medium font-semibold'> e.g.: Data centers located in Morocco (when required), ASI Maroc, national operators compliant with GDPR/ISO standards.</span>"
+      },
+      "card3": {
+        "title": "Professional orders and associations",
+        "description": "Relay to practitioners, ethical validation, co-design of business modules. <br/> <span class='text-light-onSurfaceVariant font-title-medium font-semibold'> e.g.: Medical Order, pharmacists, biologists, etc.</span>"
+      },
+      "card4": {
+        "title": "Academic partners",
+        "description": "Training, research, and innovation in Health AI and digital public health. <br/><span class='text-light-onSurfaceVariant font-title-medium font-semibold'>e.g.: Moroccan universities and research centers.</span>"
+      },
+      "card5": {
+        "title": "Associative & territorial partners",
+        "description": "Deployment in rural areas and support for community health programs. <br/><span class='text-light-onSurfaceVariant font-title-medium font-semibold'>e.g.: Local associations, foundations, rural municipalities.</span>"
+      },
+      "note": "Mon Toubib operates according to a multi-actor collaborative model, where each partner contributes to strengthening the system's reliability, proximity, and sustainability. “Our vision goes beyond technology: it is a human and institutional alliance for a strong, inclusive Moroccan digital health respectful of national values.” — ASI Maroc SARL",
+      "link1": "Become a Mon Toubib partner",
+      "link2": "Consult agreements and conventions",
+      "link3": "Propose an international partnership",
+      "p": "In collaboration with its partners and respecting the institutional framework, Mon Toubib is part of an approach aimed at accompanying the evolution of digital health and responsible use of technologies at the national level."
+    },
+    "partenaire": {
+      "title": "Partners & Institutions — Together for a sovereign digital health",
+      "description": "The Mon Toubib project relies on a solid network of public, private, and associative partners, mobilized to advance digital health in Morocco. These collaborations ensure coherence between the technical, medical, regulatory, and social dimensions of the project, within an ethical framework aligned with the Kingdom's national orientations. By bringing together the technological expertise of ASI Maroc, the know-how of Moroccan health professionals, and the support of national institutions, Mon Toubib works to build a Moroccan model of sovereign e-health, exportable in the long term to other African countries.",
+      "partner1": {
+        "name": "Partner 1"
+      },
+      "partner2": {
+        "name": "Partner 2"
+      },
+      "partner3": {
+        "name": "Partner 3"
+      },
+      "partner4": {
+        "name": "Partner 4"
+      }
+    }
+  },
+
+  "medias": {
+    "title": "Media & Resources",
+    "categories": {
+      "innovations": "Mon Toubib Innovations",
+      "santePrevention": "Health & prevention",
+      "etudesDonnees": "Studies & Moroccan data",
+      "formationsWebinaires": "Training & webinars",
+      "vieProjet": "Project life",
+      "validAlt": "Validated"
+    },
+    "testimony": {
+      "title": "Testimonials & Press — They talk about Mon Toubib",
+      "title2": "Human stories, media impact, the same vision",
+      "description": "Because trust is built on transparency, Mon Toubib shares feedback from its users, partners, and the national press. This section brings together testimonials from patients, doctors, and institutions, as well as articles and reports published in Moroccan and international media. These feedbacks illustrate Mon Toubib's mission: humanizing technology, valuing Moroccan medicine, and showing the concrete benefits of sovereign digital health.",
+      "card1": {
+        "title": "Professional testimonials",
+        "description": "Doctors, pharmacists, physiotherapists, and other health actors share their experience with Mon Toubib."
+      },
+      "card2": {
+        "title": "Patient testimonials",
+        "description": "Moroccan citizens recount how the platform simplified their care journey and improved their medical follow-up."
+      },
+      "card3": {
+        "title": "National press",
+        "description": "Articles, interviews, and reports published in the Moroccan press (print, radio, TV, web)."
+      },
+      "card4": {
+        "title": "International press",
+        "description": "Coverage and distinctions received abroad for the Mon Toubib model and its sovereign approach."
+      },
+      "card5": {
+        "title": "Video reports & interviews",
+        "description": "Capsules filmed with professionals and institutional partners."
+      },
+      "note": "These testimonials strengthen the project's public credibility and show that Mon Toubib is not a promise: it's a reality in motion. “Testimonials and the press are our mirror: they reflect the positive transformation we bring to Moroccan health. Mon Toubib is innovation seen by those who experience it.” — ASI Maroc SARL",
+      "link1": "Read patient testimonials",
+      "link2": "Consult press articles",
+      "link3": "Watch video reports",
+      "p": "Testimonials, press, and institutions agree: ",
+      "p2": "Mon Toubib is durably changing the relationship between citizens, doctors, and digital health."
+    },
+    "actuality": {
+      "title": "News & Blog — Health innovation in motion",
+      "title2": "Inform, raise awareness, and share health differently",
+      "description": "The News & Blog section of Mon Toubib continuously informs about project advances, national e-health initiatives, and medical prevention topics. It offers a clear and accessible reading of health news in Morocco, while highlighting innovations, events, and scientific publications related to the Mon Toubib ecosystem. Each article is written or validated by our editorial and medical teams, to guarantee verified, sovereign, and responsible information, respecting the CNDP and DGSSI framework.",
+      "card1": {
+        "title": "Mon Toubib Innovations",
+        "description": "Doctors, pharmacists, physiotherapists, and other health actors share their experience with Mon Toubib."
+      },
+      "card2": {
+        "title": "Health & prevention",
+        "description": "Educational articles and awareness campaigns written with our medical partners."
+      },
+      "card3": {
+        "title": "Studies & Moroccan data",
+        "description": "Statistical analyses from the Mon Toubib health observatory (trends, national indicators)."
+      },
+      "card4": {
+        "title": "Training & webinars",
+        "description": "Event announcements, conferences, podcasts, and health webinars."
+      },
+      "card5": {
+        "title": "Project life",
+        "description": "Institutional press releases, deployment reports, and user success stories."
+      },
+      "note": "The blog acts as a bridge between medicine, society, and technology, promoting responsible digital health and data sovereignty. “Informing is caring differently. The Mon Toubib blog contributes to health education, transparency, and building a Moroccan digital health culture.” — ASI Maroc SARL",
+      "link1": "Read the latest news",
+      "link2": "Browse blog articles",
+      "link3": "See upcoming webinars",
+      "link4": "Download the complete press kit",
+      "p": "The Mon Toubib blog brings digital health to life daily.",
+      "p2": "Inform to understand, share to advance.@"
+    }
+  },
+
+  "actualiteDetail": {
+    "backButton": "Back to media",
+    "readTime": "reading time",
+    "by": "By",
+    "keywords": "Keywords"
+  },
+
+  "contact": {
+    "title": "Contact",
+    "desc": "Contact & Assistance — Mon Toubib at your service",
+    "paragraph": "The Contact & Assistance section allows each user — patient, professional, or partner — to get in touch with ASI Maroc teams. Whether it's an information request, a technical report, or an assistance need, exchanges are handled with attention, confidentiality, and traceability. Exchanges made via this form benefit from security and traceability measures, implemented in accordance with applicable regulatory requirements regarding data protection and cybersecurity.",
+    "successMessage": "Your message has been sent successfully!",
+    "errorMessage": "Failed to send message. Please try again.",
+    "phoneNumber": "+212 452 365 856",
+    "email": "Info@montoubib.com",
+    "submitting": "Sending...",
+    "submit": "Send",
+    "mapTitle": "Google Maps - NEXT OCTET",
+    "formLabels": {
+      "fullName": "Full Name",
+      "function": "Function",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "contactInfo": {
+      "phone": "Phone",
+      "email": "Email",
+      "followUs": "Follow us on"
+    },
+    "socialLinks": {
+      "facebook": {
+        "alt": "link to facebook",
+        "href": "https://facebook.com/montoubib"
+      },
+      "instagram": {
+        "alt": "link to instagram",
+        "href": "https://instagram.com/montoubib"
+      },
+      "linkedin": {
+        "alt": "link to linkedin",
+        "href": "https://linkedin.com/company/montoubib"
+      },
+      "youtube": {
+        "alt": "link to youtube",
+        "href": "https://youtube.com/montoubib"
+      }
+    },
+    "specialties": {
+      "patient": "Patient",
+      "professional": "Health professional",
+      "institution": "Institution"
+    }
+  },
+
+  "footer": {
+    "logoAlt": "mon toubib logo",
+    "brandDescription": "Sovereign digital health, at the service of Morocco and Moroccans.",
+    "legalDescription": "Mon Toubib is an e-health platform developed by ASI Maroc SARL. Processing of personal data and health data is carried out in accordance with law 09 08, under the directives of the CNDP, and respecting DGSSI requirements for cybersecurity. The platform applies recognized international standards for security and data protection (ISO 27001, ISO 27701, ISO 27799, GDPR). When the regulatory or contractual framework requires it, Mon Toubib can be deployed on infrastructures located in Morocco, in compliance with laws 05-20 and 43-20.",
+    "copyright": "{{year}} ASI Maroc SARL — All rights reserved.",
+    "sitemap": {
+      "title": "Navigation",
+      "home": "Home",
+      "discoverPlatform": "Discover platform",
+      "userSpace": "User space",
+      "mtAcademy": "MT Academy",
+      "community": "Community & Partnerships",
+      "media": "Media & Resources",
+      "contact": "Contact & Support"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Contact@montoubib.com",
+      "phone": "+212 654 987 412",
+      "mailIcon": "mail icon",
+      "phoneIcon": "phone icon"
+    },
+    "social": {
+      "title": "Social networks",
+      "facebook": "link to facebook",
+      "instagram": "link to instagram",
+      "youtube": "link to youtube"
+    },
+    "socialLinks": {
+      "facebook": "https://facebook.com/montoubib",
+      "instagram": "https://instagram.com/montoubib",
+      "youtube": "https://youtube.com/montoubib",
+      "linkedin": "https://linkedin.com/company/montoubib"
+    },
+    "legal": {
+      "privacyPolicy": "Privacy policy",
+      "terms": "Terms of use"
+    },
+    "p": "E-health platform developed in accordance with CNDP and DGSSI requirements.",
+    "docs": "Legal documents & compliance",
+    "privacy": "Privacy policy",
+    "cookies": "Cookie policy",
+    "legal2": "Legal notices",
+    "docs2": "Legal documents & compliance",
+    "assistance": "Assistance",
+    "faq": "Help & FAQ",
+    "glossary": "Glossary",
+    "functionnality": "Complementary features",
+    "direct": "(direct contact)",
+    "support": "(Technical support)",
+    "madeIn": "Made in Morocco with care by ASI Maroc SARL",
+    "dd": "General Terms of Use (GTU)"
+  },
+
+  "validation": {
+    "messages": {
+      "email": "Please enter a valid email address",
+      "phone": "Please enter a valid phone number (e.g.: 06 12 34 56 78)",
+      "default": ""
+    },
+    "required": {
+      "fullName": "Please enter your full name",
+      "email": "Please enter your email address",
+      "phone": "Please enter your phone number",
+      "subject": "Please enter the subject of your message",
+      "message": "Please enter your message",
+      "function": "Please select your function",
+      "specialty": "Please select your specialty",
+      "default": "This field is required"
+    }
+  },
+
+  "search": {
+    "title": "Search"
+  },
+  "grandComptes": {
+    "title": "Large Accounts & Institutions",
+    "subtitle": "Health Solutions for Companies & Institutions",
+    "description": "Improve your employees' health with Connected Medical Booths (CMC), prevention, and first-line medicine. Mon Toubib accompanies Moroccan companies, institutions, and organizations in implementing modern, sovereign health solutions compliant with national standards. Thanks to Connected Medical Booths (CMC), MTS modules, and an approach centered on prevention, well-being, and performance, Mon Toubib offers a complete solution to improve workplace health.",
+    "offersTitle": "Offers for Large Accounts",
+    "cards": {
+      "card1": {
+        "title": "1. Connected Medical Booths (CMC)",
+        "bulletPoints": {
+          "point1": "Instant or scheduled teleconsultation",
+          "point2": "Automated vital measurements",
+          "point3": "Synchronized records (DPSP / FCI)",
+          "point4": "Prevention follow-up / check-ups",
+          "point5": "HR alerts (anonymized)"
+        }
+      },
+      "card2": {
+        "title": "2. Prevention & Screening",
+        "bulletPoints": {
+          "point1": "Hypertension",
+          "point2": "Diabetes",
+          "point3": "Obesity",
+          "point4": "Mental health",
+          "point5": "Personalized annual programs"
+        }
+      },
+      "card3": {
+        "title": "3. Collaboration with Occupational Physicians",
+        "bulletPoints": {
+          "point1": "Dedicated interface for regulatory follow-up",
+          "point2": "Secure sharing of DPSP / FCI according to authorizations",
+          "point3": "Anonymized declaration of occupational risks",
+          "point4": "Adapted prevention programs",
+          "point5": "Periodic check-ups and mandatory annual follow-up"
+        }
+      },
+      "card4": {
+        "title": "4. HR & Management Portal",
+        "bulletPoints": {
+          "point1": "Anonymized dashboards",
+          "point2": "Health indicators",
+          "point3": "Annual prevention plan",
+          "point4": "Quarterly reports"
+        }
+      }
+    }
+  },
+  "avantages": {
+    "title": "Advantages for Companies",
+    "cards": {
+      "card1": {
+        "title": "1. For Managers",
+        "bulletPoints": {
+          "point1": "Reduce absenteeism",
+          "point2": "Targeted prevention",
+          "point3": "Health management"
+        }
+      },
+      "card2": {
+        "title": "2. For Employees",
+        "bulletPoints": {
+          "point1": "Quick access to care",
+          "point2": "Personalized follow-up",
+          "point3": "Medical guidance"
+        }
+      },
+      "card3": {
+        "title": "3. For Occupational Physicians",
+        "bulletPoints": {
+          "point1": "Access to a dedicated interface for occupational physician / Occupational Health Service (SST)",
+          "point2": "Regular follow-up of employees (annual visit, assessments)",
+          "point3": "Early detection of occupational risks",
+          "point4": "Organized medical record (DPSP + FCI)",
+          "point5": "Anonymous analysis of collective health",
+          "point6": "Preparation of annual SST action plans"
+        }
+      }
+    }
+  },
+  "Workflow Continued": "Workflow Continued",
+  "workflow": {
+    "title": "Large Accounts Workflow",
+    "steps": {
+      "step1": {
+        "title": "CMC installation and configuration",
+        "imageAlt": "Installation and configuration"
+      },
+      "step2": {
+        "title": "Employee identification",
+        "imageAlt": "Employee identification"
+      },
+      "step3": {
+        "title": "Automatic vital measurements",
+        "imageAlt": "Vital measurements"
+      },
+      "step4": {
+        "title": "Doctor consultation (if needed)",
+        "imageAlt": "Doctor consultation"
+      },
+      "step5": {
+        "title": "Follow-up and prevention",
+        "imageAlt": "Follow-up and prevention"
+      },
+      "step6": {
+        "title": "Anonymized reports for HR and occupational physician dashboard",
+        "imageAlt": "Reports and dashboard"
+      }
+    }
+  },
+  "features": {
+    "title": "Integrated complementary features",
+    "title3": "Complementary features — Complete, intelligent, and connected platform",
+    "title2": "Seamless, compatible, and comprehensive experience for all users",
+    "description": "Mon Toubib is not just a set of medical modules: it's a unified digital architecture, designed to ensure continuity, security, and ease of use. These complementary features ensure the link between all spaces (patients, professionals, institutions) and guarantee the system's compliance with Moroccan and international requirements. They express the philosophy of \"All-in-one Sovereign\": a single, interoperable, ethical, and evolving base.",
+    "card1": {
+      "title": "Smart search engine",
+      "description": "Unified search in the site, DPSP, educational content, institutions, and partners."
+    },
+    "card2": {
+      "title": "Multilingual",
+      "description": "Interface translated into Arabic, Amazigh, English, French, and Spanish with consistent medical terminology."
+    },
+    "card3": {
+      "title": "Universal accessibility",
+      "description": "Compatible with screen readers, enhanced contrast, appropriate font for visually impaired."
+    },
+    "card4": {
+      "title": "Consent and cookie management",
+      "description": "Integrated CNDP banner, choice of consent level (functional/analytical/Health AI)."
+    },
+    "card5": {
+      "title": "Unified dashboard",
+      "description": "Unified view of activities (consultations, notifications, alerts, payments, messages)."
+    },
+    "card6": {
+      "title": "Monitoring and audit",
+      "description": "Real-time monitoring system for data flows and secure communications."
+    },
+    "card7": {
+      "title": "HL7 / FHIR / IHE interoperability capability",
+      "description": "Seamless connection with hospitals, laboratories, pharmacies, and Moroccan hospital information systems."
+    },
+    "card8": {
+      "title": "Automatic backup and restore",
+      "description": "Regular backups implemented on infrastructures compliant with applicable security requirements."
+    },
+    "card9": {
+      "title": "Internal analytical dashboard",
+      "description": "Internal tool for monitoring digital health (aggregated and anonymized data)."
+    },
+    "note": "These features are the invisible but essential foundation for Mon Toubib's performance and reliability. Each feature, visible or not, is designed to contribute to protecting users and responsible use of digital health technologies. Mon Toubib positions itself as a trust platform, developed respecting the regulatory framework and applicable security requirements. — ASI Maroc SARL",
+    "link1": "Discover our technical standards",
+    "link2": "Read the cookie policy",
+    "link3": "Explore the Mon Toubib dashboard",
+    "p": "Mon Toubib positions itself as an interconnected digital ecosystem, designed to accompany the evolution of digital health practices, in harmony with regulatory frameworks and data protection issues."
+  },
+  "glossary": {
+    "title": "Glossary",
+    "container1": {
+      "title": "General terms and platform",
+      "item1": {
+        "title": "Mon Toubib",
+        "description": "Integrated e-health platform facilitating access to care, medical coordination, and management of health services between patients, professionals, and medical structures, within a secure and compliant framework."
+      },
+      "item2": {
+        "title": "E-health platform",
+        "description": "Digital solution dedicated to the health sector, allowing management, exchange, and securing of medical information and services."
+      },
+      "item3": {
+        "title": "Mon Toubib web application",
+        "description": "Web interface dedicated to health specialists, institutions, and partners for managing medical and administrative activities."
+      },
+      "item4": {
+        "title": "Mon Toubib ecosystem",
+        "description": "The sum of applications, services, modules, and partners interconnected around the Mon Toubib platform."
+      },
+      "item5": {
+        "title": "Mon Toubib mobile application",
+        "description": "Application primarily designed for patients, allowing access to health services, appointments, and personal information."
+      }
+    },
+    "container2": {
+      "title": "Users and roles",
+      "item1": {
+        "title": "Patient",
+        "description": "Person using the Mon Toubib platform to access health services, manage their appointments, and medical information."
+      },
+      "item2": {
+        "title": "Medical assistant",
+        "description": "Employee authorized to assist a health professional in administrative, organizational, or operational management via the platform."
+      },
+      "item3": {
+        "title": "Platform manager",
+        "description": "Role responsible for the technical, functional, and regulatory management of the Mon Toubib platform."
+      },
+      "item4": {
+        "title": "Health professional",
+        "description": "Person legally authorized to practice a medical or paramedical activity (doctor, nurse, physiotherapist, etc.)."
+      },
+      "item5": {
+        "title": "Health institution",
+        "description": "Public or private medical structure using Mon Toubib to coordinate care and manage services."
+      }
+    },
+    "container3": {
+      "title": "Files, data and health information",
+      "item1": {
+        "title": "Shared Patient Health File (DPSP)",
+        "description": "Secure digital file allowing centralized and controlled sharing of a patient's health information."
+      },
+      "item2": {
+        "title": "Smart Consultation Form (FCI)",
+        "description": "Digital tool used by health professionals to organize, document, and secure consultation work."
+      },
+      "item3": {
+        "title": "Personal data",
+        "description": "Information allowing direct or indirect identification of a natural person."
+      },
+      "item4": {
+        "title": "Personal Health Notebook (CSP)",
+        "description": "Personal space allowing the patient to follow certain health information and medical events."
+      },
+      "item5": {
+        "title": "Health data",
+        "description": "Information related to the physical or mental health condition of a person."
+      },
+      "item6": {
+        "title": "Patient consent",
+        "description": "Permission given by the patient regarding access, sharing, or use of their health data."
+      }
+    },
+    "container4": {
+      "title": "Services and features",
+      "item1": {
+        "title": "Online appointment booking",
+        "description": "Feature allowing patients to consult availability and manage their medical appointments."
+      },
+      "item2": {
+        "title": "Dispo+",
+        "description": "Feature indicating real-time availability of a health professional."
+      },
+      "item3": {
+        "title": "Remote consultation",
+        "description": "Medical consultation conducted remotely via secure digital tools."
+      },
+      "item4": {
+        "title": "Availability management",
+        "description": "Feature allowing professionals to define their consultation periods."
+      },
+      "item5": {
+        "title": "Secure messaging",
+        "description": "Encrypted exchange tool between patients and professionals via the platform."
+      }
+    },
+    "container5": {
+      "title": "Digital and technical security",
+      "item1": {
+        "title": "Digital security",
+        "description": "Set of technical and organizational measures aimed at protecting systems, services, and digital access."
+      },
+      "item2": {
+        "title": "Authentication",
+        "description": "Process allowing verification of a user's identity."
+      },
+      "item3": {
+        "title": "Encryption",
+        "description": "Procedure aimed at making data unreadable to any unauthorized person."
+      },
+      "item4": {
+        "title": "Access control",
+        "description": "Mechanisms allowing definition of access to services according to roles and permissions."
+      },
+      "item5": {
+        "title": "Traceability",
+        "description": "Recording of access and actions performed on the platform."
+      },
+      "item6": {
+        "title": "Backup",
+        "description": "Secure copy of data allowing recovery in case of incident."
+      }
+    },
+    "container6": {
+      "title": "Hosting and infrastructure",
+      "item1": {
+        "title": "Data hosting",
+        "description": "Infrastructures ensuring storage, availability, and protection of platform data."
+      },
+      "item2": {
+        "title": "Service continuity",
+        "description": "System's ability to remain operational despite technical incidents."
+      },
+      "item3": {
+        "title": "Sovereign hosting",
+        "description": "Hosting of data in centers located on national territory, compliant with local requirements."
+      },
+      "item4": {
+        "title": "Resilience",
+        "description": "Platform's ability to absorb, manage, and recover after an incident."
+      }
+    },
+    "container7": {
+      "title": "Compliance and regulatory framework",
+      "item1": {
+        "title": "Regulatory compliance",
+        "description": "Respect of laws, regulations, and applicable requirements for digital and health services."
+      },
+      "item2": {
+        "title": "DGSSI",
+        "description": "General Directorate for Information Systems Security."
+      },
+      "item3": {
+        "title": "Legal and compliance documents",
+        "description": "Institutional page gathering legal and regulatory commitments of Mon Toubib."
+      },
+      "item4": {
+        "title": "CNDP",
+        "description": "National Commission for Control of Personal Data Protection."
+      },
+      "item5": {
+        "title": "Privacy policy",
+        "description": "Document describing methods of processing and protecting personal data."
+      }
+    },
+    "container8": {
+      "title": "Governance and organization",
+      "item1": {
+        "title": "Data governance",
+        "description": "Set of rules and processes regulating management, use, and protection of data"
+      },
+      "item2": {
+        "title": "Continuous improvement",
+        "description": "Approach aimed at developing services and devices progressively and in a controlled manner."
+      },
+      "item3": {
+        "title": "Accountability",
+        "description": "Commitment to account for actions performed on the platform."
+      }
+    },
+    "container9": {
+      "title": "Support and accompaniment",
+      "item1": {
+        "title": "User support",
+        "description": "Service dedicated to accompanying users in using the platform."
+      },
+      "item2": {
+        "title": "Frequently Asked Questions",
+        "description": "Set of answers to the most frequently asked questions by users."
+      },
+      "item3": {
+        "title": "Technical assistance",
+        "description": "Assistance provided in case of access or operation problem."
+      }
+    }
+  },
+  "help": {
+    "objectives": "Page objective",
+    "p": "Make available to Mon Toubib users (patients, health professionals, institutions, and partners) a clear, organized, and educational information base, allowing understanding of the platform's operation, facilitating its daily use, and answering the most frequent questions, without systematic recourse to assistance.",
+    "title": "Mon Toubib Help and Frequently Asked Questions",
+    "faq": {
+      "section1": {
+        "title": "Overview of Mon Toubib",
+        "question1": "What is Mon Toubib?",
+        "answer": "Mon Toubib is an integrated e-health platform, designed to improve access to care, medical coordination, and management of health information, in a secure digital environment compliant with regulatory requirements. It allows connecting patients, health professionals, and medical structures around reliable, advanced digital tools focused on user experience.",
+        "question2": "What are Mon Toubib's objectives?",
+        "answer2": "<div class=\"ml-4\">• Facilitate access to health services<br/>• Improve coordination between medical actors<br/>• Simplify management of appointments and health information<br/>• Promote continuity of care<br/>• Ensure security and confidentiality of data</div>"
+      },
+      "section2": {
+        "title": "User profiles and roles",
+        "question1": "Who can use Mon Toubib?",
+        "answer": "The platform is accessible to several user categories:<br/><div class=\"ml-4\">• Patients<br/>• Health professionals (doctors, paramedics, structures)<br/>• Institutions and organizations (depending on activated services)</div>Each profile benefits from functions tailored to their role and needs.",
+        "question2": "Are functions identical for everyone?",
+        "answer2": "No. Services accessible depend on the user profile, granted permissions, and modules activated on the platform. Each profile benefits from functions tailored to their role and needs."
+      },
+      "section3": {
+        "title": "Account creation and access",
+        "question1": "How do I create a Mon Toubib account?",
+        "answer": "Account creation is done via:<br/><div class=\"ml-4\">• The mobile application,<br/>• Or the Mon Toubib website.</div>The process varies depending on the profile (patient or professional) and may include verification or accreditation steps.",
+        "question2": "Can I modify or update my information?",
+        "answer2": "Yes. Each user can update their personal information from their secure space, within the limits set by the platform."
+      },
+      "section4": {
+        "title": "Using Mon Toubib services",
+        "question1": "How do I book, modify, or cancel an appointment?",
+        "answer": "Patients can consult professional availability and manage their appointments directly via the platform, according to options offered by the health professional.",
+        "question2": "Can I consult my health information?",
+        "answer2": "Access to health information depends on:<br/><div class=\"ml-4\">• Data shared by professionals,<br/>• Permissions defined by the patient,<br/>• And activated functions.</div>",
+        "question3": "Can professionals share information?",
+        "answer3": "Yes, within a secure and controlled framework, respecting access rules, confidentiality, and patient choices."
+      },
+      "section5": {
+        "title": "Personal data, confidentiality, and security (user level)",
+        "question1": "How is my data protected?",
+        "answer": "Mon Toubib implements security measures aimed at protecting personal and health data from unauthorized access, loss, or alteration.",
+        "question2": "Who can access my data?",
+        "answer2": "Access is strictly limited:<br/><div class=\"ml-4\">• To authorized persons,<br/>• According to defined role and rights,<br/>• And in accordance with options expressed by the user.</div>",
+        "question3": "Where can I find detailed commitments?",
+        "answer3": "Complete information regarding data protection is available in:<br/><div class=\"ml-4\">• The Legal and Compliance Documents page,<br/>• Privacy policy.</div>"
+      },
+      "section6": {
+        "title": "Help, support, and accompaniment",
+        "question1": "How do I contact Mon Toubib help?",
+        "answer": "Help service accessible via:<br/><div class=\"ml-4\">• A dedicated contact form,<br/>• Or support channels indicated on the platform.</div>",
+        "question2": "What types of requests can be handled?",
+        "answer2": "<div class=\"ml-4\">• Help using the platform<br/>• Access or account problems<br/>• General questions about services<br/>• Report anomalies</div>",
+        "question3": "What are response times?",
+        "answer3": "Requests are handled within timeframes adapted to their nature, with priority given to critical topics."
+      }
+    }
+  },
+  "compliance": {
+    "title": "Legal and compliance documents",
+    "title2": "Transparency, security, and regulatory compliance at the heart of the Mon Toubib platform.",
+    "description1": "This page centralizes all legal, regulatory, and compliance documents governing the use of the Mon Toubib platform, according to applicable Moroccan laws and international standards applied to digital health.",
+    "title3": "Institutional introduction",
+    "title1": "Terms of use and sale",
+    "description2": "Mon Toubib is an e-health platform developed by ASI Maroc SARL, committed to a precise approach to data protection, information systems security, and respect for the Moroccan legal framework. Mon Toubib's design is based on:<br/><div class=\"ml-4\">• Strict respect for CNDP directives in the field of personal data,<br/>• Alignment with DGSSI requirements in the field of cybersecurity,<br/>• Application of recognized international standards in the field of digital health.</div>The documents below define the rights, obligations, and commitments of all platform users.",
+    "title4": "Legal documents",
+    "cards1": {
+      "title1": "GTU – General Terms of Use",
+      "description1": "Contractual framework regulating access and use of the Mon Toubib platform by:<br/><div class=\"ml-4\">• Patients,<br/>• Health professionals,<br/>• Institutional users,<br/>• Corporate partners.</div>",
+      "title2": "GTS – General Terms of Sale",
+      "description2": "Documents regulating:<br/><div class=\"ml-4\">• Professional subscriptions,<br/>• Premium services,<br/>• Corporate and large accounts offers,<br/>• Billing methods and termination.</div>"
+    },
+    "title5": "Confidentiality and data protection",
+    "cards2": {
+      "title1": "Privacy policy",
+      "description1": "Detailed description:<br/><div class=\"ml-4\">• Of collected data,<br/>• Of processing purposes,<br/>• Of user rights (access, correction, objection),<br/>• Of consent mechanisms.</div>",
+      "title2": "Cookie management policy",
+      "description2": "Information related to:<br/><div class=\"ml-4\">• Functional cookies,<br/>• Analytical cookies,<br/>• User consent options.</div>",
+      "title3": "Health data processing policy",
+      "description3": "Specific document regulating:<br/><div class=\"ml-4\">• DPSP,<br/>• FCI,<br/>• CSP,<br/>• Medical data flows, according to CNDP requirements.</div>",
+      "title4": "CNDP commitments",
+      "description4": "References to declarations, authorizations, and regulatory commitments made by ASI Maroc in the framework of operating Mon Toubib."
+    },
+    "title6": "Compliance and security",
+    "cards3": {
+      "title1": "Mon Toubib security commitments",
+      "description1": "Brief presentation of applied measures:<br/><div class=\"ml-4\">• Encryption,<br/>• Strong authentication,<br/>• Logging,<br/>• Traceability,<br/>• Access control.</div>",
+      "title2": "DGSSI compliance and ISO standards",
+      "description2": "Alignment with:<br/><div class=\"ml-4\">• ISO 27001 (information security),<br/>• ISO 27701 (personal data protection),<br/>• ISO 27799 (health data).</div>",
+      "title3": "Retention and archiving policy",
+      "description3": "Respect for:<br/><div class=\"ml-4\">• Legal retention periods,<br/>• Evidentiary archiving, according to applicable Moroccan laws.</div>",
+      "title4": "Mon Toubib electronic signature policy",
+      "description4": "Framework for advanced electronic signature integrated into the platform, compliant with:<br/><div class=\"ml-4\">• Moroccan law,<br/>• Recognized practices of the private sector,<br/>• International standards when applicable.</div>"
+    },
+    "title7": "Contracts and charters",
+    "cards4": {
+      "title1": "Mon Toubib partnership charter",
+      "description1": "Document defining:<br/><div class=\"ml-4\">• Cooperation principles,<br/>• Ethical commitments,<br/>• Confidentiality obligations,<br/>• Expected quality standards.</div>",
+      "title2": "Professional subscription contract (MTS Doctor)",
+      "description2": "(Optional depending on deployment strategy) Contractual framework linking ASI Maroc to subscribing health professionals.",
+      "title3": "Company / Large accounts license contract",
+      "description3": "Document regulating the use of Mon Toubib in a corporate or institutional context."
+    },
+    "title8": "Institutional information",
+    "cards5": {
+      "title1": "Legal notices",
+      "description1": "Information related to the platform publisher:<br/><div class=\"ml-4\">• Name: ASI Maroc SARL<br/>• Status: Publisher and operator of Mon Toubib<br/>• Legal coordinates (RC, IF, ICE, registered office) (Exact details will be integrated in the dedicated page)<br/><div class=\"mt-6 text-light-primary text-body-large font-semibold\"> Legal contact </div> Email: legal@montoubib.com</div>",
+      "title2": "Personal data protection",
+      "description2": "Personal and medical data processed by Mon Toubib are protected according to:<br/><div class=\"ml-4\">• Law 09-08 relating to the protection of personal data,<br/>• CNDP directives,<br/>• DGSSI requirements,<br/>• As well as applicable international standards in the field of health data security and confidentiality.</div>"
+    },
+    "noteTitle": "Medical emergency notice",
+    "description": "Mon Toubib does not replace emergency services. In case of a medical emergency, immediately contact emergency services in your area.",
+    "title9": "Mon Toubib digital security",
+    "t1": "Page objective",
+    "desc1": "Present in a clear and institutional manner the comprehensive approach to Mon Toubib's digital security, to reassure users, partners, and authorities about risk control, system protection, and regulatory compliance, without entering into a legal register.",
+    "t2": "Our approach to digital security",
+    "desc2": "At Mon Toubib, digital security constitutes a fundamental pillar of the platform. It is not limited to data protection, but encompasses all technical, organizational, and operational devices aimed at ensuring the reliability, availability, and integrity of proposed e-health services. This comprehensive approach allows ensuring a trusted digital environment, adapted to the specific requirements of the health sector.",
+    "t3": "Security integrated from design",
+    "desc3": "The Mon Toubib platform was designed according to the principle of security by design. Each component — web applications, mobile applications, and infrastructures — integrates protection mechanisms from the earliest development stages. This approach allows anticipating risks, reducing structural vulnerabilities, and ensuring controlled evolution of the system over time.",
+    "t4": "Health data protection and privacy",
+    "desc4": "Mon Toubib gives particular attention to protecting health data and respecting users' privacy. Data is processed in a secure, confidential manner compliant with applicable regulatory requirements in Morocco. Precise processing methods, retention, and user rights are detailed in the Legal and Compliance Documents and Privacy Policy pages, accessible from the site.",
+    "t5": "Access control and traceability",
+    "desc5": "Access to Mon Toubib services is strictly controlled with mechanisms adapted to user roles (patients, health professionals, institutions). Traceability devices record access and sensitive actions, contributing to preventing unauthorized uses, detecting incidents, and respecting accountability and transparency obligations.",
+    "t6": "Hosting, continuity, and resilience",
+    "desc6": "The platform relies on hosting infrastructures that respond to security, availability, and service continuity requirements. Mon Toubib implements backup, redundancy, and activity resumption mechanisms to ensure system resilience in the face of technical or operational incidents, while ensuring protection of hosted data.",
+    "t7": "Governance, compliance, and continuous improvement",
+    "desc7": "Mon Toubib's digital security is part of an organized and evolving governance approach. Existing devices are regularly evaluated and adapted to take into account the evolution of risks, regulatory requirements, and best practices of the e-health sector. The logic of continuous improvement allows Mon Toubib to maintain a high level of security over the long term.",
+    "t8": "Institutional referral (bottom of page)",
+    "desc8": "For more information on Mon Toubib's legal, regulatory, and compliance commitments, please consult the Legal and Compliance Documents page.",
+    "title10": "Mon Toubib compliance and legal framework",
+    "tt1": "Page objective",
+    "d1": "Present the regulatory, legal, and governance framework in which Mon Toubib operates, to demonstrate the platform's compliance with applicable legal requirements in Morocco and international best practices for the e-health sector.",
+    "tt2": "Structural legal framework",
+    "d2": "Mon Toubib operates within a precise legal and regulatory framework, adapted to digital health issues. The platform is designed to operate respecting applicable laws, while integrating principles of responsible and transparent governance. This approach aims to ensure the trust of users, health professionals, and institutional partners.",
+    "tt3": "Regulatory compliance in Morocco",
+    "d3": "Mon Toubib respects applicable Moroccan regulations for digital services and protection of personal data, under the authority of competent bodies. Data processing implemented by the platform is designed to be compliant with legal requirements, particularly in terms of purpose, security, confidentiality, and rights of concerned persons.",
+    "tt4": "Health data and accountability",
+    "d4": "Health data processed via Mon Toubib receives particular attention, given its sensitive nature. The platform puts in place regulatory and technical mechanisms aimed at ensuring responsible data processing, limiting access to authorized persons, and use compatible with medical purposes or care coordination.",
+    "tt5": "Relations with professionals and partners",
+    "d5": "Relations between Mon Toubib, health professionals, and partners are organized by clear contractual agreements, defining the responsibilities of each party. Partnerships presented on the platform are exclusively those that were the subject of formal agreements, according to principles of transparency and compliance.",
+    "tt6": "Transparency and user information",
+    "d6": "Mon Toubib gives particular importance to informing users about the platform's operation and processing of their data. Legal documents and regulatory information are accessible in a clear and organized manner, allowing each user to understand their rights and Mon Toubib's commitments.",
+    "tt7": "Regulatory evolution and continuous adaptation",
+    "d7": "The legal and regulatory framework for digital health evolves regularly. Mon Toubib adopts a continuous adaptation approach to anticipate and integrate legal, normative, and sectoral developments. This permanent monitoring contributes to maintaining a high level of compliance over the long term.",
+    "tt8": "Institutional referral (bottom of page)",
+    "d8": "Details relating to user rights, data processing, and legal obligations are detailed in the Legal and Compliance Documents page as well as in the Privacy Policy."
+  },
+  "roundedPie": {
+    "title1": "1. Access & Appointments",
+    "listItems1": {
+      "1": "• MTS Patient (mobile/web)",
+      "2": "• Immediate availability ",
+      "3": "or future appointment",
+      "4": "• Mandatory payment"
+    },
+    "title2": "2. Smart Calendar",
+    "listItems2": {
+      "1": "• Shared calendar",
+      "2": "• Assistant/doctor",
+      "3": "• Data visualization",
+      "4": "• Waiting room TV display",
+      "5": ""
+    },
+    "title3": "3. Consultation",
+    "listItems3": {
+      "1": "• Teleconsultation",
+      "2": "• Clinic/office",
+      "3": "• Home visit"
+    },
+    "title4": "4. Smart Consultation Form",
+    "listItems4": {
+      "1": "• Pre-filling",
+      "2": "(DPSP + history)",
+      "3": "• Voice transcription",
+      "4": "• AI reformulation",
+      "5": " (professional/patient)"
+    },
+    "title5": "5. Prescriptions & Messaging",
+    "listItems5": {
+      "1": "• Prescriptions",
+      "2": "• Examinations/tests",
+      "3": "• Referral form",
+      "4": "• Written/audio/video",
+      "5": "messaging"
+    },
+    "title6": "6. Closing & Continuity",
+    "listItems6": {
+      "1": "• DPSP update",
+      "2": "• Billing (doctor/assistant)",
+      "3": "• Patient follow-up",
+      "4": "• New cycle possible",
+      "5": ""
+    },
+    "p": "Foundation of the shared medical journey"
+  }
+}
